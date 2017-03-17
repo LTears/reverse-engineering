@@ -1,0 +1,3065 @@
+匹配树结构——注册表
++registry
+	+user
+		+s-*_classes
+			+network
+				+sharinghandler
+					access=34bc 8
+					-*			+httfile
+				+defaulticon
+					access=251f 8
+					-*			+channelshortcut
+				+defaulticon
+					access=1f81 8
+					-*			+.ini
+				access=1f7e 8
+				-*			+.
+				access=1f7a 8
+				-*				+shell
+					+open
+						+command
+							access=1f7f 8
+							-*			+inifile
+				+shell
+					+*
+						+command
+							access=1f71 8
+							-*			+.lnk
+				access=1f62 8
+				-*			+lnkfile
+				access=1f60 8
+				-*				+*
+					access=1f6b 8
+					-*					+*
+						access=1f66 8
+						-*			+.exe
+				access=1f5f 8
+				-*			+chm.file
+				+shell
+					+open
+						+command
+							access=1f5d 8
+							-			+pngfile
+				+shell
+					+open
+						+command
+							access=1f5b 8
+							-			+giffile
+				+shell
+					+open
+						+command
+							access=1f59 8
+							-			+bmpfile
+				+shell
+					+open
+						+command
+							access=1f57 8
+							-			+jpegfile
+				+shell
+					+open
+						+command
+							access=1f55 8
+							-			+jpgfile
+				+shell
+					+open
+						+command
+							access=1f53 8
+							-			+htafile
+				+shell
+					+open
+						+command
+							access=1f51 8
+							-			+hlpfile
+				+shell
+					+open
+						+command
+							access=1f4f 8
+							-			+txtfile
+				+shell
+					+open
+						+command
+							access=1f4d 8
+							-			+regfile
+				+shell
+					+open
+						+command
+							access=1f4b 8
+							-			+scrfile
+				+shell
+					+open
+						+command
+							access=1f49 8
+							-			+piffile
+				+shell
+					+open
+						+command
+							access=1f47 8
+							-			+batfile
+				+shell
+					+open
+						+command
+							access=1f45 8
+							-			+comfile
+				+shell
+					+open
+						+command
+							access=1f43 8
+							-			+exefile
+				+defaulticon
+					access=1f64 8
+					-*				+shell
+					+open
+						+command
+							access=1f41 8
+							-			+folder
+				+shellex
+					+columnhandlers
+						access=fb0 8
+						-*						+*
+							access=fb1 8
+							-*					+contextmenuhandlers
+						access=a3d 8
+						-*						+*
+							access=a32 8
+							-*			+directory
+				+background
+					+shellex
+						+contextmenuhandlers
+							+*
+								access=a34 8
+								-*				+shellex
+					+copyhookhandlers
+						access=fac 8
+						-*						+*
+							access=fad 8
+							-*					+propertysheethandlers
+						access=fa8 8
+						-*						+*
+							access=fa9 8
+							-*					+dragdrophandlers
+						access=fa4 8
+						-*						+*
+							access=fa5 8
+							-*					+contextmenuhandlers
+						access=a3b 8
+						-*						+*
+							access=a30 8
+							-*			+allfilesystemobjects
+				+shellex
+					+contextmenuhandlers
+						access=a39 8
+						-*						+*
+							access=a2e 8
+							-*			+|*
+				+shellex
+					+contextmenuhandlers
+						access=a38 8
+						-*						+*
+							access=a2d 8
+							-*			+clsid
+				+{20d04fe0-3aea-1069-a2d8-08002b30309d}
+					+shell
+						+explore
+							+command
+								access=23f9 8
+								-*						+open
+							+command
+								access=23f6 8
+								-*				+{5839fca9-774d-42a1-acda-d6a79037f57f}
+					+inprocserver32
+						access=23f5 8
+						-*				+{fbeb8a05-beee-4442-804e-409d6c4515e9}
+					+inprocserver32
+						access=23f3 8
+						-*				+{068b0700-718c-11d0-8b1a-00a0c91bc90e}
+					+localserver32
+						access=fbf 8
+						-				+{0002df01-0000-0000-c000-000000000046}
+					+localserver32
+						access=9a0 8
+						-			+about
+				+shell
+					+open
+						+command
+							access=99e 8
+							-			+ie.http
+				+shell
+					access=999 8
+					-					+open
+						+command
+							access=99a 8
+							-			+ftp
+				+defaulticon
+					access=251e 8
+					-*				+shell
+					access=98a 8
+					-					+open
+						+command
+							access=98b 8
+							-			+.mhtml
+				access=987 8
+				-			+.mht
+				access=986 8
+				-			+.shtml
+				access=984 8
+				-			+.shtm
+				access=981 8
+				-			+.html
+				access=980 8
+				-			+.htm
+				access=97d 8
+				-			+internetshortcut
+				+shell
+					access=970 8
+					-					+open
+						+command
+							access=96d 8
+							-			+mhtmlfile
+				+shell
+					access=972 8
+					-					+open
+						+command
+							access=96b 8
+							-			+htmlfile
+				+shell
+					access=973 8
+					-					+open
+						+command
+							access=96a 8
+							-			+htmfile
+				+shell
+					access=976 8
+					-					+open
+						+command
+							access=967 8
+							-			+file
+				+shell
+					access=978 8
+					-					+open
+						+command
+							access=965 8
+							-			+https
+				+defaulticon
+					access=251d 8
+					-*				+shell
+					access=97c 8
+					-					+open
+						+command
+							access=962 8
+							-			+http
+				+defaulticon
+					access=251c 8
+					-*				+shell
+					access=97a 8
+					-					+open
+						+command
+							access=961 8
+							-					+*
+						+command
+							access=99f 8
+							-			+*
+				access=33f5 8
+				-url protocol				+shell
+					+path
+						+command
+							access=1f77 8
+							-*					+*
+						+command
+							access=1f78 8
+							-*		+qmconfig
+			+*
+				access=4cc 8
+				access=4cc 8
+				-*				+*
+					access=4cd 8
+					access=4cd 8
+					-*					+*
+						access=4ce 8
+						access=4ce 8
+						-*		+s-*
+			+control panel
+				+don't load
+					access=2009 8
+					-ncpa.cpl				+desktop
+					access=1ce9 8
+					-scrnsave.exe			+volatile environment
+				access=106d 8
+				-*			+environment
+				access=106c 8
+				-*			+eudc
+				+*
+					access=a8f 8
+					-*			+keyboard layout
+				+preload
+					access=a8d 8
+					-1					access=a8e 8
+					-*			+software
+				+tencent
+					+qqpinyin
+						access=3340 8
+						-*				+wow6432node
+					+microsoft
+						+windows
+							+currentversion
+								+explorer
+									+desktop
+										+namespace
+											access=2204 8
+											-											+*
+												access=2202 8
+												-*								+url
+									access=2138 8
+									-						+windows nt
+							+currentversion
+								+inifilemapping
+									+*
+										access=20d7 8
+										-*										+*
+											access=20d5 8
+											-*						+internet explorer
+							+menuext
+								+*
+									access=1c86 8
+									-*							+extensions
+								+*
+									access=1c25 8
+									-clsid									access=1c26 8
+									-exec							+explorer bars
+								access=1a93 8
+								-*				+policies
+					+microsoft
+						+internet explorer
+							+control panel
+								access=208e 8
+								-homepage							+restrictions
+								access=207c 8
+								-nofavorites								access=207e 8
+								-nobrowsercontextmenu								access=2080 8
+								-noprinting								access=2090 8
+								-nobrowseroptions								access=2096 8
+								-noviewsource						+windows
+							+control panel
+								+desktop
+									access=1ceb 8
+									-scrnsave.exe							+system
+								+scripts
+									+shutdown
+										+*
+											access=1841 8
+											-filesyspath											+*
+												access=1842 8
+												-script									+startup
+										+*
+											access=183d 8
+											-filesyspath											+*
+												access=183e 8
+												-script									+logoff
+										+*
+											access=1839 8
+											-filesyspath											+*
+												access=183a 8
+												-script									+logon
+										+*
+											access=16a9 8
+											-filesyspath											+*
+												access=16aa 8
+												-script						+*
+							access=2074 8
+							-				+clients
+					+startmenuinternet
+						access=99d 8
+						-				+microsoft
+					+command processor
+						access=1ede 8
+						-autorun					+active setup
+						+installed components
+							access=138b 8
+							-*							+*
+								access=138c 8
+								-stubpath					+ctf
+						+langbaraddin
+							access=fb8 8
+							-*					+internet explorer
+						+menuext
+							+*
+								access=1c85 8
+								-*						+extensions
+							+*
+								access=1c21 8
+								-clsid								access=1c22 8
+								-exec						+toolbar
+							access=1af7 8
+							-*						+explorer bars
+							access=1a91 8
+							-*						+searchscopes
+							access=14b6 8
+							-defaultscope							+*
+								access=14b8 8
+								-url						+urlsearchhooks
+							access=14b5 8
+							-*						+main
+							access=9c6 8
+							-start page							access=9c8 8
+							-secondary start pages							access=9cc 8
+							-first home page					+windows nt
+						+currentversion
+							+inifilemapping
+								+*
+									access=20d1 8
+									-									+*
+										access=20d3 8
+										-*							+winlogon
+								access=1e7a 8
+								-shell							+terminal server
+								+install
+									+software
+										+microsoft
+											+windows
+												+currentversion
+													+run
+														access=1457 8
+														-*													+runonceex
+														access=1455 8
+														-*													+runonce
+														access=1453 8
+														-*							+image file execution options
+								+*
+									access=89a 8
+									-debug*							+windows
+								access=848 8
+								-load								access=1772 8
+								-run					+windows
+						+shell
+							+associations
+								+urlassociations
+									+https
+										+userchoice
+											access=998 8
+											-progid									+ftp
+										+userchoice
+											access=997 8
+											-progid									+http
+										+userchoice
+											access=996 8
+											-progid						+currentversion
+							+internet settings
+								+zones
+									+2
+										access=5079 8
+										-1201							+url
+								access=2135 8
+								-							+group policy
+								access=2070 8
+								-							+group policy objects
+								access=206d 8
+								-								+*
+									+software
+										+policies
+											+microsoft
+												+windows
+													+control panel
+														+desktop
+															access=1cea 8
+															-scrnsave.exe										+microsoft
+											+windows
+												+currentversion
+													+policies
+														+explorer
+															access=20a0 8
+															-restrictrun															+disallowrun
+																access=209f 8
+																-															+run
+																access=17d7 8
+																-*														+system
+															access=1713 8
+															-shell							+shell extensions
+								+approved
+									access=fbb 8
+									-*							+shellserviceobjectdelayload
+								access=fa3 8
+								-*							+policies
+								access=2071 8
+								-								+system
+									access=170d 8
+									-shell									access=170f 8
+									-disabletaskmgr									access=1712 8
+									-disableregistrytools								+explorer
+									access=2075 8
+									-restrictrun									access=2077 8
+									-disablelocalmachinerun									access=207a 8
+									-nodrives									access=207f 8
+									-noclose									access=2081 8
+									-noviewondrive									access=2082 8
+									-noviewcontextmenu									access=2086 8
+									-nofind									access=2089 8
+									-nologoff									access=208b 8
+									-nocontrolpanel									access=208d 8
+									-nofolderoptions									access=208f 8
+									-nosetfolders									access=2094 8
+									-norealmode									access=2095 8
+									-nodesktop									access=209c 8
+									-norecentdocsmenu									access=209e 8
+									-disablecurrentuserrun									access=2b62 8
+									-nointerneticon									+disallowrun
+										access=20a1 8
+										-									+run
+										access=851 8
+										-*							+explorer
+								+user shell folders
+									access=2db5 8
+									-cache									access=3522 8
+									-*								+shell folders
+									access=2d50 8
+									-startup									access=3520 8
+									-*								+clsid
+									+{871c5380-42a0-1069-a2ea-08002b30309d}
+										+shellfolder
+											access=2b64 8
+											-attributes								+hidedesktopicons
+									+classicstartmenu
+										access=2b5f 8
+										-*									+newstartpanel
+										access=2b5d 8
+										-*								+advanced
+									access=2584 8
+									-showsuperhidden									access=2586 8
+									-hidden									access=2589 8
+									-hidefileext									+folder
+										+superhidden
+											access=2585 8
+											-*										+hidden
+											+showall
+												access=2583 8
+												-*											+nohidden
+												access=2581 8
+												-*								+desktop
+									+namespace
+										access=21fe 8
+										-										+*
+											access=21ff 8
+											-*								+shelliconoverlayidentifiers
+									access=fb4 8
+									-*									+*
+										access=fb5 8
+										-*								+fileexts
+									+.
+										access=1f70 8
+										-*										+openwithprogids
+											access=1f7c 8
+											-*										+userchoice
+											access=1f79 8
+											-*									+.exe
+										access=1f63 8
+										-progid										access=1f69 8
+										-application										+userchoice
+											access=1f76 8
+											-progid											access=1f80 8
+											-application									+https
+										+userchoice
+											access=995 8
+											-progid									+http
+										+userchoice
+											access=994 8
+											-progid									+ftp
+										+userchoice
+											access=993 8
+											-progid									+.shtml
+										+userchoice
+											access=992 8
+											-progid									+.shtm
+										+userchoice
+											access=991 8
+											-progid									+.mhtml
+										+userchoice
+											access=990 8
+											-progid									+.mht
+										+userchoice
+											access=98f 8
+											-progid									+.html
+										+userchoice
+											access=98e 8
+											-progid									+.htm
+										+userchoice
+											access=98d 8
+											-progid								+browser helper objects
+									+*
+										access=904 8
+								+shellexecutehooks
+									access=850 8
+									-*							+runservices
+								access=84f 8
+								-*							+runservicesonce
+								access=84e 8
+								-*							+runonceex
+								access=84c 8
+								-*							+runonce
+								access=84b 8
+								-*								+setup
+									access=84d 8
+									-*							+runex
+								access=84a 8
+								-*							+run
+								access=849 8
+								-*								+qqdisabled
+									access=4c0 8
+									access=4c0 8
+									-*		+qmconfig*
+			access=4bd 8
+			access=4bd 8
+			-*	+machine
+		+software
+			+policies
+				+microsoft
+					+internet explorer
+						+control panel
+							access=208a 8
+							-homepage						+restrictions
+							access=207b 8
+							-nobrowsercontextmenu							access=2085 8
+							-nobrowseroptions							access=2092 8
+							-noviewsource							access=2099 8
+							-nofavorites							access=209a 8
+							-noprinting					+windows
+						+ipsec
+							+policy
+								+local
+									access=2a94 8
+									-*									+*
+										access=2a95 8
+										-*						+system
+							+scripts
+								+logoff
+									+*
+										access=183f 8
+										-filesyspath										+*
+											access=1840 8
+											-script								+shutdown
+									+*
+										access=183b 8
+										-filesyspath										+*
+											access=183c 8
+											-script								+logon
+									+*
+										access=16ab 8
+										-filesyspath										+*
+											access=16ac 8
+											-script								+startup
+									+*
+										access=1645 8
+										-filesyspath										+*
+											access=1646 8
+											-script					+*
+						access=2073 8
+						-			+classes
+				+network
+					+sharinghandler
+						access=34bd 8
+						-*				+httfile
+					+defaulticon
+						access=2523 8
+						-*				+.ini
+					access=1f75 8
+					-*				+.
+					access=1f7d 8
+					-*					+shell
+						+open
+							+command
+								access=1f74 8
+								-*				+inifile
+					+shell
+						+*
+							+command
+								access=1f72 8
+								-*				+channelshortcut
+					+defaulticon
+						access=1f6f 8
+						-*				+.sys
+					access=1f6e 8
+					-*				+.dll
+					access=1f6d 8
+					-*				+.exe
+					access=1f6c 8
+					-*				+.lnk
+					access=1f68 8
+					-*				+lnkfile
+					access=1f67 8
+					-*					+*
+						access=1f6a 8
+						-*						+*
+							access=1f61 8
+							-*				+chm.file
+					+shell
+						+open
+							+command
+								access=1f5e 8
+								-				+pngfile
+					+shell
+						+open
+							+command
+								access=1f5c 8
+								-				+giffile
+					+shell
+						+open
+							+command
+								access=1f5a 8
+								-				+bmpfile
+					+shell
+						+open
+							+command
+								access=1f58 8
+								-				+jpegfile
+					+shell
+						+open
+							+command
+								access=1f56 8
+								-				+jpgfile
+					+shell
+						+open
+							+command
+								access=1f54 8
+								-				+htafile
+					+shell
+						+open
+							+command
+								access=1f52 8
+								-				+hlpfile
+					+shell
+						+open
+							+command
+								access=1f50 8
+								-				+txtfile
+					+shell
+						+open
+							+command
+								access=1f4e 8
+								-				+regfile
+					+shell
+						+open
+							+command
+								access=1f4c 8
+								-				+scrfile
+					+shell
+						+open
+							+command
+								access=1f4a 8
+								-				+piffile
+					+shell
+						+open
+							+command
+								access=1f48 8
+								-				+batfile
+					+shell
+						+open
+							+command
+								access=1f46 8
+								-				+comfile
+					+shell
+						+open
+							+command
+								access=1f44 8
+								-				+exefile
+					+defaulticon
+						access=1f65 8
+						-*					+shell
+						+open
+							+command
+								access=1f42 8
+								-				+protocols
+					+handler
+						+*
+							access=1328 8
+							-clsid							+*
+								access=1327 8
+								-clsid					+filter
+						+*
+							access=1326 8
+							-clsid							+*
+								access=1325 8
+								-clsid				+wow6432node
+					+folder
+						+shellex
+							+columnhandlers
+								access=fc8 8
+								-*								+*
+									access=fc6 8
+									-*					+directory
+						+shellex
+							+copyhookhandlers
+								access=fc4 8
+								-*								+*
+									access=fc5 8
+									-*							+propertysheethandlers
+								access=fc2 8
+								-*								+*
+									access=fc3 8
+									-*							+dragdrophandlers
+								access=fc1 8
+								-*								+*
+									access=fc7 8
+									-*				+folder
+					+shellex
+						+columnhandlers
+							access=fb2 8
+							-*							+*
+								access=fb3 8
+								-*						+contextmenuhandlers
+							access=a33 8
+							-*							+*
+								access=a2c 8
+								-*				+|*
+					+shellex
+						+contextmenuhandlers
+							access=a36 8
+							-*							+*
+								access=a2b 8
+								-*				+allfilesystemobjects
+					+shellex
+						+contextmenuhandlers
+							access=a2f 8
+							-*							+*
+								access=a2a 8
+								-*				+directory
+					+background
+						+shellex
+							+contextmenuhandlers
+								access=a3a 8
+								-*								+*
+									access=a35 8
+									-*					+shellex
+						+copyhookhandlers
+							access=fae 8
+							-*							+*
+								access=faf 8
+								-*						+propertysheethandlers
+							access=faa 8
+							-*							+*
+								access=fab 8
+								-*						+dragdrophandlers
+							access=fa6 8
+							-*							+*
+								access=fa7 8
+								-*						+contextmenuhandlers
+							access=a31 8
+							-*							+*
+								access=a29 8
+								-*				+clsid
+					+{20d04fe0-3aea-1069-a2d8-08002b30309d}
+						+shell
+							+explore
+								+command
+									access=23f8 8
+									-*							+open
+								+command
+									access=23f7 8
+									-*					+{5839fca9-774d-42a1-acda-d6a79037f57f}
+						+inprocserver32
+							access=23f4 8
+							-*					+{fbeb8a05-beee-4442-804e-409d6c4515e9}
+						+inprocserver32
+							access=23f2 8
+							-*					+{438755c2-a8ba-11d1-b96b-00a0c90312e1}
+						+inprocserver32
+							access=23f1 8
+							-*					+{5b4dae26-b807-11d0-9815-00c04fd91972}
+						+inprocserver32
+							access=23f0 8
+							-*					+{068b0700-718c-11d0-8b1a-00a0c91bc90e}
+						+localserver32
+							access=fc0 8
+							-					+{0002df01-0000-0000-c000-000000000046}
+						+localserver32
+							access=9a5 8
+							-				+about
+					+shell
+						+open
+							+command
+								access=9a1 8
+								-				+ie.http
+					+shell
+						access=99b 8
+						-						+open
+							+command
+								access=99c 8
+								-				+ftp
+					+defaulticon
+						access=2522 8
+						-*					+shell
+						access=989 8
+						-						+open
+							+command
+								access=98c 8
+								-				+.mhtml
+					access=988 8
+					-				+.mht
+					access=985 8
+					-				+.shtml
+					access=983 8
+					-				+.shtm
+					access=982 8
+					-				+.html
+					access=97f 8
+					-				+.htm
+					access=97e 8
+					-				+internetshortcut
+					+shell
+						access=96f 8
+						-						+open
+							+command
+								access=96e 8
+								-				+mhtmlfile
+					+shell
+						access=971 8
+						-						+open
+							+command
+								access=96c 8
+								-				+htmlfile
+					+shell
+						access=974 8
+						-						+open
+							+command
+								access=969 8
+								-				+htmfile
+					+shell
+						access=975 8
+						-						+open
+							+command
+								access=968 8
+								-				+file
+					+shell
+						access=977 8
+						-						+open
+							+command
+								access=966 8
+								-				+http
+					+defaulticon
+						access=2520 8
+						-*					+shell
+						access=979 8
+						-						+open
+							+command
+								access=964 8
+								-						+*
+							+command
+								access=9a4 8
+								-				+https
+					+defaulticon
+						access=2521 8
+						-*					+shell
+						access=97b 8
+						-						+open
+							+command
+								access=963 8
+								-				+*
+					access=33f4 8
+					-url protocol					+shell
+						+path
+							+command
+								access=1f7b 8
+								-*						+*
+							+command
+								access=1f73 8
+								-*			+wow6432node
+				+tencent
+					+qqbrowser
+						access=4e85 8
+						-exe					+qqpcmgr
+						access=516 8
+						-installdir						access=517 8
+						-version						access=519 8
+						-supplyid						access=51b 8
+						-defaultiestartpage						+iestartpage
+							access=51d 8
+							-*							+*
+								access=51f 8
+								-*						+systemoptimize
+							+disabledsvc
+								access=4c6 8
+								access=4c6 8
+								-*							+disabled
+								access=4c5 8
+								access=4c5 8
+								-*				+microsoft
+					+command processor
+						access=1edf 8
+						-autorun					+active setup
+						+installed components
+							access=138d 8
+							-*							+*
+								access=138e 8
+								-stubpath					+rpc
+						+clientprotocols
+							access=1260 8
+							-*						+securityservice
+							access=125f 8
+							-*					+internet explorer
+						access=1b5a 8
+						-downloadui						+advancedoptions
+							+browse
+								+ieondesktop
+									access=2b65 8
+									-regpath									access=2b67 8
+									-regpoliciespath						+plugins
+							+extension
+								access=24ba 8
+								-*						+view source editor
+							+editor name
+								access=2455 8
+								-*						+extensions
+							+*
+								access=1c27 8
+								-exec								access=1c28 8
+								-clsid						+toolbar
+							access=1af6 8
+							-*						+explorer bars
+							access=1a94 8
+							-*						+searchscopes
+							access=14ba 8
+							-defaultscope							+*
+								access=14bb 8
+								-url						+abouturls
+							access=9ca 8
+							-tabs						+main
+							access=9c9 8
+							-start page							access=9cb 8
+							-first home page					+code store database
+						+distribution units
+							access=901 8
+							-*							+*
+								+contains
+									+files
+										access=902 8
+										-*					+windows nt
+						+currentversion
+							+drivers32
+								access=34bf 8
+								-*							+imm
+								access=25e8 8
+								-ime file							+inifilemapping
+								+*
+									access=20d8 8
+									-*									+*
+										access=20d6 8
+										-*							+image file execution options
+								+*
+									access=89b 8
+									-debugger							+windows
+								access=870 8
+								-appinit_dlls					+windows
+						+currentversion
+							+app paths
+								+iexplore.exe
+									access=3585 8
+									-*							+url
+								access=2137 8
+								-							+shellserviceobjectdelayload
+								access=fcd 8
+								-*							+shell extensions
+								+approved
+									access=fcc 8
+									-*							+ext
+								+preapproved
+									access=fca 8
+									-*							+policies
+								+explorer
+									access=2b69 8
+									-nointerneticon									+run
+										access=86f 8
+										-*							+explorer
+								+shell folders
+									access=3525 8
+									-*								+user shell folders
+									access=3524 8
+									-*								+hidedesktopicons
+									+newstartpanel
+										access=2b6a 8
+										-*									+classicstartmenu
+										access=2b68 8
+										-*								+desktop
+									+namespace
+										access=2201 8
+										-										+*
+											access=2203 8
+											-*								+sharedtaskschedule
+									access=fce 8
+									-*								+shelliconoverlayidentifiers
+									access=fcb 8
+									-*									+*
+										access=fc9 8
+										-*								+browser helper objects
+									access=1bbe 8
+									-*									+*
+										access=900 8
+								+shellexecutehooks
+									access=86e 8
+									-*							+runservices
+								access=86d 8
+								-*							+runservicesonce
+								access=86c 8
+								-*							+runonceex
+								access=869 8
+								-*								+*
+									access=86a 8
+									-*							+runonce
+								access=868 8
+								-*								+setup
+									access=86b 8
+									-*							+runex
+								access=867 8
+								-*							+uninstall
+								+qqpcmgr*
+									access=4c7 8
+									access=4c7 8
+									-*							+run
+								access=4c3 8
+								access=4c3 8
+								- qqpctray								access=866 8
+								-*								+qqdisabled
+									access=4c4 8
+									access=4c4 8
+									-*			+tencent
+				+qqbrowser
+					access=4e84 8
+					-exe				+qqpinyin
+					access=3341 8
+					-*				+traveler
+					access=332d 8
+					-exe					access=3330 8
+					-exeold				+ttraveler
+					access=332c 8
+					-exe					access=332f 8
+					-exeold				+qqpcmgr
+					access=514 8
+					-installdir					access=515 8
+					-version					access=518 8
+					-supplyid					access=51a 8
+					-defaultiestartpage					+iestartpage
+						access=51c 8
+						-*						+*
+							access=51e 8
+							-*					+systemoptimize
+						+disabledsvc
+							access=4b7 8
+							access=4b7 8
+							-*						+disabled
+							access=4b5 8
+							access=4b5 8
+							-*			+microsoft
+				+router
+					+currentversion
+						+routermanagers
+							+*
+								access=345e 8
+								-dllpath				+systemcertificates
+					+authroot
+						+certificates
+							+*
+								access=2c24 8
+								-blob				+command processor
+					access=1edd 8
+					-autorun				+active setup
+					+installed components
+						access=1389 8
+						-*						+*
+							access=138a 8
+							-stubpath				+rpc
+					+securityservice
+						access=125e 8
+						-*					+clientprotocols
+						access=125d 8
+						-*				+ctf
+					+langbaraddin
+						access=fb9 8
+						-*				+internet explorer
+					access=1b59 8
+					-downloadui					+advancedoptions
+						+browse
+							+ieondesktop
+								access=2b60 8
+								-regpath								access=2b61 8
+								-regpoliciespath					+plugins
+						+extension
+							access=24b9 8
+							-*							+*
+								access=24b8 8
+								-*					+view source editor
+						+editor name
+							access=2454 8
+							-*					+extensions
+						+*
+							access=1c23 8
+							-clsid							access=1c24 8
+							-exec					+toolbar
+						access=1af5 8
+						-*					+explorer bars
+						access=1a92 8
+						-*					+urlsearchhooks
+						access=14bc 8
+						-*					+searchscopes
+						access=14b7 8
+						-defaultscope						+*
+							access=14b9 8
+							-url					+abouturls
+						access=9c7 8
+						-tabs					+main
+						access=9c5 8
+						-start page						access=9cd 8
+						-first home page				+code store database
+					+distribution units
+						access=8fe 8
+						-*						+*
+							+contains
+								+files
+									access=8ff 8
+									-*				+windows nt
+					+currentversion
+						+drivers32
+							access=34be 8
+							-*						+imm
+							access=25e7 8
+							-ime file						+inifilemapping
+							+*
+								access=20d2 8
+								-								+*
+									access=20d4 8
+									-*						+winlogon
+							access=189d 8
+							-uihost							access=1901 8
+							-system							access=19c9 8
+							-ginadll							access=1a2d 8
+							-taskman							access=1db1 8
+							-userinit							access=1e15 8
+							-appsetup							access=1e16 8
+							-vmapplet							access=1e79 8
+							-shell							+gpextensions
+								+*
+									access=1e17 8
+									-dllname							+notify
+								+*
+									access=1965 8
+									-dllname						+terminal server
+							+install
+								+software
+									+microsoft
+										+windows
+											+currentversion
+												+run
+													access=1456 8
+													-*												+runonceex
+													access=1454 8
+													-*												+runonce
+													access=1452 8
+													-*						+font drivers
+							access=100c 8
+							-*						+svchost
+							access=1007 8
+							-*						+aedebug
+							access=fbd 8
+							-debugger						+image file execution options
+							+*
+								access=899 8
+								-debug*						+windows
+							access=83e 8
+							-appinit_dlls				+windows
+					+currentversion
+						+internet settings
+							+zones
+								+2
+									access=5078 8
+									-1201						+app paths
+							+iexplore.exe
+								access=3584 8
+								-*						+bits
+							access=3466 8
+							-servicedll						+telephony
+							+providers
+								access=3465 8
+								-*						+url
+							access=2136 8
+							-						+group policy
+							access=206f 8
+							-						+group policy objects
+							access=206e 8
+							-						+shell extensions
+							+approved
+								access=fbc 8
+								-*						+ext
+							+preapproved
+								access=fba 8
+								-*						+shellserviceobjectdelayload
+							access=fa2 8
+							-*						+policies
+							access=2072 8
+							-							+system
+								access=170e 8
+								-shell								access=1710 8
+								-disableregistrytools								access=1711 8
+								-disabletaskmgr							+explorer
+								access=2076 8
+								-restrictrun								access=2078 8
+								-disablelocalmachinerun								access=2079 8
+								-nocontrolpanel								access=207d 8
+								-norecentdocsmenu								access=2083 8
+								-noviewondrive								access=2084 8
+								-noclose								access=2087 8
+								-nodrives								access=2088 8
+								-nofind								access=208c 8
+								-nosetfolders								access=2091 8
+								-nologoff								access=2093 8
+								-norealmode								access=2097 8
+								-nofolderoptions								access=2098 8
+								-nodesktop								access=209b 8
+								-noviewcontextmenu								access=209d 8
+								-disablecurrentuserrun								access=2b63 8
+								-nointerneticon								+run
+									access=83f 8
+									-*						+explorer
+							+shell folders
+								access=2d52 8
+								-common startup								access=3523 8
+								-*							+user shell folders
+								access=2d51 8
+								-common startup								access=2db4 8
+								-cache								access=3521 8
+								-*							+clsid
+								+{871c5380-42a0-1069-a2ea-08002b30309d}
+									+shellfolder
+										access=2b66 8
+										-attributes							+hidedesktopicons
+								+classicstartmenu
+									access=2b5e 8
+									-*								+newstartpanel
+									access=2b5c 8
+									-*							+advanced
+								+folder
+									+superhidden
+										access=2587 8
+										-*									+hidden
+										access=2588 8
+										-*										+showall
+											access=2582 8
+											-*										+nohidden
+											access=2580 8
+											-*							+desktop
+								+namespace
+									access=21fd 8
+									-									+*
+										access=2200 8
+										-*							+shelliconoverlayidentifiers
+								access=fb6 8
+								-*								+*
+									access=fb7 8
+									-*							+sharedtaskscheduler
+								access=fa1 8
+								-*							+browser helper objects
+								access=1bbd 8
+								-*								+*
+									access=8fd 8
+							+shellexecutehooks
+								access=83d 8
+								-*						+runservices
+							access=83c 8
+							-*						+runservicesonce
+							access=83b 8
+							-*						+runonceex
+							access=838 8
+							-*							+*
+								access=839 8
+								-*						+runonce
+							access=837 8
+							-*							+setup
+								access=83a 8
+								-*						+runex
+							access=835 8
+							-*						+uninstall
+							+qqpcmgr*
+								access=4be 8
+								access=4be 8
+								-*						+run
+							access=4c2 8
+							access=4c2 8
+							- qqpctray							access=836 8
+							-*							+qqdisabled
+								access=4b4 8
+								access=4b4 8
+								-*		+system
+			+*controlset*
+				+control
+					+print
+						+providers
+							+*
+								access=2c8a 8
+								-name						+environments
+							+*
+								+print processors
+									+*
+										access=2c8b 8
+										-driver								+drivers
+									+*
+										+*
+											access=2c89 8
+											-driver											access=2c8c 8
+											-configuration file						+monitors
+							+*
+								access=2c88 8
+								-driver					+keyboard layouts
+						access=25e6 8
+						-*						+*
+							access=25e4 8
+							-ime file							access=25e5 8
+							-layout file					+safeboot
+						access=219a 8
+						-alternateshell						+*
+							access=2199 8
+							-							+*
+								access=219b 8
+								-*					+timezoneinformation
+						access=1db2 8
+						-activetimebias					+bootverificationprogram
+						access=1d4d 8
+						-imagepath					+terminal server
+						+wds
+							+rdpwd
+								access=1451 8
+								-startupprograms					+wow
+						access=1195 8
+						-cmdline						access=1196 8
+						-wowcmdline					+lsa
+						access=1132 8
+						-authentication packages						access=1133 8
+						-notification packages						access=1134 8
+						-security packages						+accessproviders
+							+windows nt access provider
+								access=1135 8
+								-providerpath					+securityproviders
+						access=1131 8
+						-securityproviders					+session manager
+						access=1069 8
+						-bootexecute						access=106a 8
+						-setupexecute						access=106b 8
+						-execute						+environment
+							access=12c1 8
+							-comspec						+knowndlls
+							access=10cd 8
+							-*						+appcertdlls
+							access=fbe 8
+							-*				+session manager
+					access=4b2 8
+					access=4b2 8
+					-pendingfilerenameoperations				+services
+					+w32time
+						+timeproviders
+							+*
+								access=3467 8
+								-dllname					+remoteaccess
+						+accounting
+							+providers
+								+*
+									access=346a 8
+									-path						+demanddialmanager
+							access=3463 8
+							-dllpath						+authentication
+							+providers
+								+*
+									access=3461 8
+									-path						+routermanagers
+							+*
+								access=345f 8
+								-dllpath					+wintrust
+						+*
+							+*
+								access=345c 8
+								-$dll					+rasman
+						+ppp
+							+eap
+								access=345b 8
+								-path								+*
+									access=3459 8
+									-interactiveuipath									access=3462 8
+									-configuipath									access=3464 8
+									-identitypath									access=3468 8
+									-path							+controlprotocols
+								+*
+									access=3458 8
+									-path					+tcpip
+						+serviceprovider
+							access=345a 8
+							-providerpath						+parameters
+							access=2afb 8
+							-nameserver							access=2afc 8
+							-databasepath							access=2afd 8
+							-dhcpnameserver							+persistentroutes
+								access=2afe 8
+								-*							+interfaces
+								+*
+									access=2af8 8
+									-defaultgateway									access=2af9 8
+									-dhcpserver									access=2afa 8
+									-nameserver					+winsock
+						+setup migration
+							access=2a38 8
+							-*							+well known guids
+								access=2a3b 8
+								-*							+providers
+								access=2a39 8
+								-*								+*
+									access=2a3a 8
+									-*						+parameters
+							access=2a37 8
+							-*					+winsock2
+						access=2a30 8
+						-*						+parameters
+							access=2a31 8
+							-*							+*
+								access=2a33 8
+								-*								+catalog_entries64
+									access=2a3f 8
+									-*									+*
+										access=2a3d 8
+										-librarypath										access=2a3e 8
+										-*								+catalog_entries
+									access=2a34 8
+									-*									+*
+										access=2a35 8
+										-*										access=2a36 8
+										-librarypath								+*
+									access=2a3c 8
+									-*					+sharedaccess
+						+parameters
+							+firewallpolicy
+								access=238d 8
+								-*								+standardprofile
+									+authorizedapplications
+										+list
+											access=238c 8
+											-*					+dnscache
+						+parameters
+							access=871 8
+							-servicedll							access=3460 8
+							-extension					+antirk*
+						access=4c1 8
+						access=4c1 8
+						-*					+tssysfix*
+						access=4bf 8
+						access=4bf 8
+						-*					+tfsflt*
+						access=4bc 8
+						access=4bc 8
+						-*						+instances
+							access=4ca 8
+							access=4ca 8
+							-*							+tfsflt* instance
+								access=4cb 8
+								access=4cb 8
+								-*					+tsnetmon*
+						access=4bb 8
+						access=4bb 8
+						-*					+tssk*
+						access=4ba 8
+						access=4ba 8
+						-*					+tsfltmgr*
+						access=4b9 8
+						access=4b9 8
+						-*					+qqsysmon*
+						access=4b8 8
+						access=4b8 8
+						-*						+instances
+							access=4c8 8
+							access=4c8 8
+							-*							+qqsysmon* instance
+								access=4c9 8
+								access=4c9 8
+								-*					+tsdefensebt*
+						access=4b6 8
+						access=4b6 8
+						-*					+qqpcrtp*
+						access=4b3 8
+						access=4b3 8
+						-*					+tsksp*
+						access=4b1 8
+						access=4b1 8
+						-*					+*
+						access=1006 8
+						-type						access=1008 8
+						-start						access=100b 8
+						-imagepath						+networkprovider
+							access=3469 8
+							-providerpath						+parameters
+							access=1005 8
+							-servicedll							access=1fa5 8
+							-application							access=1fa6 8
+							-appparameters							access=1fa7 8
+							-appdirectory							+winsock
+								access=345d 8
+								-helperdllname+*
+	access=1009 8
+	-spe_add_service	access=100a 8
+	-load_driver	access=3e80 8
+
+	
+匹配树结构——文件
++c:
+	+autorun.inf
+		access=2 4
+	+program files (x86)
+		+internet explorer
+			+*.dll
+				access=1 4
+		+windows nt
+			+*.exe
+				access=1 4
+			+*.dll
+				access=1 4
+			+*
+				+*.exe
+					access=1 4
+				+*.dll
+					access=1 4
+	+bootmgr
+		access=1 4
+	+hiberfil.sys
+		access=1 4
+	+pagefile.sys
+		access=1 4
+	+ntbootdd.sys
+		access=1 4
+	+ntldr
+		access=1 4
+	+ntdetect.com
+		access=1 4
+	+boot.ini
+		access=1 4
+	+program files
+		+tencent
+			+qqpcmgr
+				+11.1.16908.217
+					access=0 4
+					+*
+						access=0 4
+						+*
+							access=0 4
+							+*
+								access=0 4
+								+*
+									access=0 4
+									+*
+										access=0 4
+										+*
+											access=0 4
+		+360
+			+360win10uper
+				+utils
+					+drvtip
+						+appraiserxp.dll
+							access=2 4
+		+common files
+			+baidu
+				+baiduprotect
+					access=2 4
+				+baiduhips
+					access=2 4
+		+baidu*
+			+baiduan
+				access=2 4
+			+baidusd
+				access=2 4
+			+baiduan*
+				+*
+					+hipsengine
+						+drivers
+							+bdfiledefend*.sys
+								access=2 4
+							+bdmnetmon*.sys
+								access=2 4
+							+bdarkit*.sys
+								access=2 4
+							+bdmwrench*.sys
+								access=2 4
+							+bd000*.sys
+								access=2 4
+							+*
+								+bdfiledefend*.sys
+									access=2 4
+								+bdmnetmon*.sys
+									access=2 4
+								+bdarkit*.sys
+									access=2 4
+								+bdmwrench*.sys
+									access=2 4
+								+bd000*.sys
+									access=2 4
+						+baiduhips*.exe
+							access=2 4
+					+baiduanupdate.exe
+						access=2 4
+					+baiduanrepair*.exe
+						access=2 4
+					+baiduansvc*.exe
+						access=2 4
+					+baiduan1.exe
+						access=2 4
+					+baiduan.exe
+						access=2 4
+					+baiduantray*.exe
+						access=2 4
+					+*
+						+hipsengine
+							+baiduhips*.exe
+								access=2 4
+						+baiduanupdate.exe
+							access=2 4
+						+baiduanrepair*.exe
+							access=2 4
+						+baiduansvc*.exe
+							access=2 4
+						+baiduan1.exe
+							access=2 4
+						+baiduan.exe
+							access=2 4
+						+baiduantray*.exe
+							access=2 4
+			+baidusd*
+				+baidusd
+					access=2 4
+				+*
+					+baidusduproxy*.exe
+						access=2 4
+					+hipsengine
+						+drivers
+							+bdfiledefend*.sys
+								access=2 4
+							+bdmnetmon*.sys
+								access=2 4
+							+bdarkit*.sys
+								access=2 4
+							+bdmwrench*.sys
+								access=2 4
+							+bd000*.sys
+								access=2 4
+							+*
+								+bdfiledefend*.sys
+									access=2 4
+								+bdmnetmon*.sys
+									access=2 4
+								+bdarkit*.sys
+									access=2 4
+								+bdmwrench*.sys
+									access=2 4
+								+bd000*.sys
+									access=2 4
+						+baiduhips*.exe
+							access=2 4
+					+baidusdupdate.exe
+						access=2 4
+					+baidusdrepair*.exe
+						access=2 4
+					+baidusdsvc*.exe
+						access=2 4
+					+baidusd1.exe
+						access=2 4
+					+baidusd.exe
+						access=2 4
+					+baidusdtray*.exe
+						access=2 4
+					+*
+						+baidusduproxy*.exe
+							access=2 4
+						+hipsengine
+							+drivers
+								+bdfiledefend*.sys
+									access=2 4
+								+bdmnetmon*.sys
+									access=2 4
+								+bdarkit*.sys
+									access=2 4
+								+bdmwrench*.sys
+									access=2 4
+								+bd000*.sys
+									access=2 4
+								+*
+									+bdfiledefend*.sys
+										access=2 4
+									+bdmnetmon*.sys
+										access=2 4
+									+bdarkit*.sys
+										access=2 4
+									+bdmwrench*.sys
+										access=2 4
+									+bd000*.sys
+										access=2 4
+							+baiduhips*.exe
+								access=2 4
+						+baidusdupdate.exe
+							access=2 4
+						+baidusdrepair*.exe
+							access=2 4
+						+baidusdsvc*.exe
+							access=2 4
+						+baidusd1.exe
+							access=2 4
+						+baidusd.exe
+							access=2 4
+						+baidusdtray*.exe
+							access=2 4
+		+internet explorer
+			+*.dll
+				access=1 4
+		+windows nt
+			+*.exe
+				access=1 4
+			+*.dll
+				access=1 4
+			+*
+				+*.dll
+					access=1 4
+				+*.exe
+					access=1 4
+		+outlook express
+			+*.exe
+				access=1 4
+			+*.dll
+				access=1 4
+		+winrar
+			+rarext.dll
+				access=2 4
+	+users
+		+*
+			+appdata
+				+roaming
+					+microsoft
+						+windows
+							+start menu
+								+programs
+									+startup
+										+*
+											access=2 4
+								+*
+									access=2 4
+	+documents and settings
+		+all users
+			+application data
+				+tencent
+					+qqpcmgr
+						+qmvext.db
+							access=2 4
+						+qmaplocal
+							access=0 4
+							+*
+								access=0 4
+						+userpolicy.db
+							access=0 4
+						+adblock
+							access=0 4
+							+*
+								access=0 4
+						+libbackup
+							+*
+								access=0 4
+						+quarantine
+							access=0 4
+							+qmcommon.dll
+								access=0 4
+							+sqlite.dll
+								access=0 4
+							+qmquarantine.exe
+								access=0 4
+						+qmconfig.hiv
+							access=0 4
+						+trustarea.db
+							access=0 4
+						+virusclean.db
+							access=0 4
+						+malwarelogo
+							+*
+								access=0 4
+						+tavwfsdb
+							access=0 4
+							+*
+								access=0 4
+						+qmconfig.dat
+							access=0 4
+						+sbcfg.dat
+							access=0 4
+					+tsvulfw_cache
+						+*
+							access=0 4
+					+tsvulfw
+						access=0 4
+						+*
+							access=0 4
+			+
+				+*.url
+					access=2 4
+				+*.lnk
+					access=2 4
+				+
+					+*.url
+						access=2 4
+					+
+						+*.url
+							access=2 4
+						+*.lnk
+							access=2 4
+					+*.lnk
+						access=2 4
+				+*
+					+*.url
+						access=2 4
+					+*.lnk
+						access=2 4
+					+*
+						+*.url
+							access=2 4
+						+*.lnk
+							access=2 4
+		+administrator
+			+appdata
+				+roaming
+					+baidu
+						+baidurjdownloader
+							+*
+								+drivers
+									+bdfiledefend*.sys
+										access=2 4
+									+bdmnetmon*.sys
+										access=2 4
+									+bdarkit*.sys
+										access=2 4
+									+bdmwrench*.sys
+										access=2 4
+									+bd000*.sys
+										access=2 4
+			+local settings
+				+temp
+					+*
+						+hipsengine
+							+drivers
+								+bdfiledefend*.sys
+									access=2 4
+								+bdmnetmon*.sys
+									access=2 4
+								+bdarkit*.sys
+									access=2 4
+								+bdmwrench*.sys
+									access=2 4
+								+bd000*.sys
+									access=2 4
+								+*
+									+bdfiledefend*.sys
+										access=2 4
+									+bdmnetmon*.sys
+										access=2 4
+									+bdarkit*.sys
+										access=2 4
+									+bdmwrench*.sys
+										access=2 4
+									+bd000*.sys
+										access=2 4
+			+favorites
+				+*.url
+					access=2 4
+				+*.lnk
+					access=2 4
+			+
+				+*.url
+					access=2 4
+				+*.lnk
+					access=2 4
+				+
+					+*.url
+						access=2 4
+					+
+						+*.url
+							access=2 4
+						+*.lnk
+							access=2 4
+					+*.lnk
+						access=2 4
+				+*
+					+*.url
+						access=2 4
+					+*.lnk
+						access=2 4
+					+*
+						+*.url
+							access=2 4
+						+*.lnk
+							access=2 4
+			+application data
+				+tencent
+					+qqpcmgr
+						+startupdelaylist.xml
+							access=0 4
+				+microsoft
+					+internet explorer
+						+quick launch
+							+*.url
+								access=2 4
+							+*.lnk
+								access=2 4
+							+user pinned
+								+*.url
+									access=2 4
+								+*.lnk
+									access=2 4
+								+*
+									+*.url
+										access=2 4
+									+*.lnk
+										access=2 4
+							+
+								access=2 4
+			+
+				+*.url
+					access=2 4
+				+*.lnk
+					access=2 4
+		+*
+			+start menu
+				+programs
+					+startup
+						+*
+							access=2 4
+				+*
+					access=2 4
+			+
+				+
+					+
+						+*
+							access=2 4
+				+*
+					access=2 4
+	+windows
+		+softwaredistribution
+			+download
+				+*
+					+*
+						+appraiser.dll
+							access=2 4
+						+*
+							+appraiser.dll
+								access=2 4
+		+winsxs
+			+temp
+				+inflight
+					+*
+						+*appraiser.dll
+							access=2 4
+			+*.dll
+				access=1 4
+			+*
+				+appraiser.dll
+					access=2 4
+				+*.dll
+					access=1 4
+		+*.ocx
+			access=1 4
+		+*.dll
+			access=1 4
+		+*.sys
+			access=1 4
+		+*.exe
+			access=1 4
+		+*.msc
+			access=1 4
+		+*.nls
+			access=1 4
+		+*.mod
+			access=1 4
+		+*.tsp
+			access=1 4
+		+*.com
+			access=1 4
+		+*.ime
+			access=1 4
+		+*.scr
+			access=1 4
+		+*.cpl
+			access=1 4
+		+*.tsk
+			access=1 4
+		+*.drv
+			access=1 4
+		+*.olb
+			access=1 4
+		+*.grm
+			access=1 4
+		+*.dic
+			access=1 4
+		+*.fon
+			access=1 4
+		+*.mui
+			access=1 4
+		+system
+			+*.dll
+				access=1 4
+			+*.sys
+				access=1 4
+			+*.exe
+				access=1 4
+		+fonts
+			+*.sys
+				access=1 4
+			+*.dll
+				access=1 4
+			+*.exe
+				access=1 4
+		+syswow64
+			+drivers
+				+bdfiledefend*.sys
+					access=2 4
+				+bdmnetmon*.sys
+					access=2 4
+				+bdarkit*.sys
+					access=2 4
+				+bdmwrench*.sys
+					access=2 4
+				+bd000*.sys
+					access=2 4
+			+macromed
+				+flash
+					+*.ocx
+						access=2 4
+		+tasks
+			+*.job
+				access=2 4
+		+system32
+			+tssk.sys
+				access=0 4
+			+appraiser.dll
+				access=2 4
+			+*.sys
+				access=1 4
+			+*.dll
+				access=1 4
+			+*.exe
+				access=1 4
+			+dllcache
+				+*.sys
+					access=1 4
+				+*.exe
+					access=1 4
+				+*.dll
+					access=1 4
+			+wbem
+				+*.sys
+					access=1 4
+				+*.exe
+					access=1 4
+				+*.dll
+					access=1 4
+			+grouppolicy
+				access=2 4
+				+machine
+					+scripts
+						+shutdown
+							+*
+								access=1 4
+						+startup
+							+*
+								access=1 4
+				+user
+					+scripts
+						+logoff
+							+*
+								access=1 4
+						+logon
+							+*
+								access=1 4
+			+macromed
+				+flash
+					+*.ocx
+						access=2 4
+			+tasks
+				+*
+					access=2 4
+			+drivers
+				+tfsfltx64.sys
+					access=0 4
+				+tfsflt.sys
+					access=0 4
+				+tsfltmgr.sys
+					access=0 4
+				+tsdefensebt.sys
+					access=0 4
+				+txarp6.sys
+					access=0 4
+				+txarp.sys
+					access=0 4
+				+bdfiledefend*.sys
+					access=2 4
+				+bdmnetmon*.sys
+					access=2 4
+				+bdarkit*.sys
+					access=2 4
+				+bdmwrench*.sys
+					access=2 4
+				+bd000*.sys
+					access=2 4
+				+*.sys
+					access=1 4
+				+etc
+					access=2 4
+					+hosts
+						access=2 4
++%programdata%
+	+microsoft
+		+windows
+			+start menu
+				+programs
+					+startup
+						+*
+							access=2 4
+				+*
+					access=2 4
++{qqinstalldir}
+	+bin
+		+*.dll
+			access=2 4
+		+*.exe
+			access=2 4
+		+im.dll
+			access=2 4
+		+xgraphic32.dll
+			access=2 4
+		+common.dll
+			access=2 4
+		+asapi.dll
+			access=2 4
+		+svulstrong.dat
+			access=2 4
+		+lpk.dll
+			access=2 4
+		+usp10.dll
+			access=2 4
+		+comres.dll
+			access=2 4
+		+msimg32.dll
+			access=2 4
++*
+	access=2 4
++device
+	+harddisk*
+		+dr*
+			access=2 4
++%program file%
+	+tencent
+		+qqbrowser
+			+qqbrowser.exe
+				access=2 4
++a:
+	+autorun.inf
+		access=2 4
++b:
+	+autorun.inf
+		access=2 4
++d:
+	+autorun.inf
+		access=2 4
++e:
+	+autorun.inf
+		access=2 4
++f:
+	+autorun.inf
+		access=2 4
++g:
+	+autorun.inf
+		access=2 4
++h:
+	+autorun.inf
+		access=2 4
++i:
+	+autorun.inf
+		access=2 4
++j:
+	+autorun.inf
+		access=2 4
++k:
+	+autorun.inf
+		access=2 4
++l:
+	+autorun.inf
+		access=2 4
++m:
+	+autorun.inf
+		access=2 4
++n:
+	+autorun.inf
+		access=2 4
++o:
+	+autorun.inf
+		access=2 4
++p:
+	+autorun.inf
+		access=2 4
++q:
+	+autorun.inf
+		access=2 4
++r:
+	+autorun.inf
+		access=2 4
++s:
+	+autorun.inf
+		access=2 4
++t:
+	+autorun.inf
+		access=2 4
++u:
+	+autorun.inf
+		access=2 4
++v:
+	+autorun.inf
+		access=2 4
++w:
+	+autorun.inf
+		access=2 4
++x:
+	+autorun.inf
+		access=2 4
++y:
+	+autorun.inf
+		access=2 4
++z:
+	+autorun.inf
+		access=2 4
+		
+主防下发规则：
+某次下发的拦截规则：
+"C:\Windows\system32\drivers\etc\hosts"
+"C:\Windows\tasks\*.job"
+"C:\Windows\system32\tasks\*"
+"C:\Documents and Settings\*\「开始」菜单\*"
+"C:\Documents and Settings\*\Start Menu\*"
+"C:\Users\*\AppData\Roaming\Microsoft\Windows\Start Menu\*"
+"C:\ProgramData\Microsoft\Windows\Start Menu\*"
+"C:\Documents and Settings\*\「开始」菜单\程序\启动\*"
+"C:\Documents and Settings\*\Start Menu\Programs\Startup\*"
+"C:\Users\*\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\*"
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\*"
+"C:\Program Files\WinRAR\RarExt.dll"
+"C:\Windows\system32\Macromed\Flash\*.ocx"
+"C:\Windows\SysWOW64\Macromed\Flash\*.ocx"
+"C:\Windows\system32\GroupPolicy\User\Scripts\logon\*"
+"C:\Windows\system32\GroupPolicy\User\Scripts\logoff\*"
+"C:\Windows\system32\GroupPolicy\Machine\Scripts\Startup\*"
+"C:\Windows\system32\GroupPolicy\Machine\Scripts\Shutdown\*"
+"c:\boot.ini"
+"c:\ntdetect.com"
+"c:\ntldr"
+"c:\ntbootdd.sys"
+"c:\pagefile.sys"
+"c:\hiberfil.sys"
+"c:\bootmgr"
+"C:\Program Files\Outlook Express\*.dll"
+"C:\Program Files\Outlook Express\*.exe"
+"C:\Program Files (x86)\Windows NT\*\*.dll"
+"C:\Program Files (x86)\Windows NT\*\*.exe"
+"C:\Program Files (x86)\Windows NT\*.dll"
+"C:\Program Files (x86)\Windows NT\*.exe"
+"C:\Program Files\Windows NT\*\*.exe"
+"C:\Program Files\Windows NT\*\*.dll"
+"C:\Program Files\Windows NT\*.dll"
+"C:\Program Files\Windows NT\*.exe"
+"C:\Program Files (x86)\Internet Explorer\*.dll"
+"C:\Program Files\Internet Explorer\*.dll"
+"C:\Windows\system32\wbem\*.dll"
+"C:\Windows\system32\wbem\*.exe"
+"C:\Windows\system32\wbem\*.sys"
+"C:\Windows\system32\dllcache\*.dll"
+"C:\Windows\system32\dllcache\*.exe"
+"C:\Windows\system32\dllcache\*.sys"
+"C:\Windows\system32\drivers\*.sys"
+"C:\Windows\system32\*.exe"
+"C:\Windows\system32\*.dll"
+"C:\Windows\system32\*.sys"
+"C:\Windows\fonts\*.exe"
+"C:\Windows\fonts\*.dll"
+"C:\Windows\fonts\*.sys"
+"C:\Windows\system\*.exe"
+"C:\Windows\system\*.sys"
+"C:\Windows\system\*.dll"
+"C:\Windows\*.mui"
+"C:\Windows\*.fon"
+"C:\Windows\*.dic"
+"C:\Windows\*.grm"
+"C:\Windows\*.olb"
+"C:\Windows\*.drv"
+"C:\Windows\*.tsk"
+"C:\Windows\*.cpl"
+"C:\Windows\*.scr"
+"C:\Windows\*.ime"
+"C:\Windows\*.com"
+"C:\Windows\*.tsp"
+"C:\Windows\*.mod"
+"C:\Windows\*.nls"
+"C:\Windows\*.msc"
+"C:\Windows\*.exe"
+"C:\Windows\*.sys"
+"C:\Windows\*.dll"
+"C:\Windows\*.ocx"
+"C:\Windows\winsxs\*.dll"
+"C:\Windows\winsxs\*\*.dll"
+"{QQINSTALLDIR}\bin\msimg32.dll"
+"{QQINSTALLDIR}\bin\comres.dll"
+"{QQINSTALLDIR}\bin\usp10.dll"
+"{QQINSTALLDIR}\bin\lpk.dll"
+"{QQINSTALLDIR}\bin\SVulStrong.dat"
+"{QQINSTALLDIR}\bin\asapi.dll"
+"{QQINSTALLDIR}\bin\Common.dll"
+"{QQINSTALLDIR}\bin\xGraphic32.dll"
+"{QQINSTALLDIR}\bin\im.dll"
+"{QQINSTALLDIR}\bin\*.exe"
+"{QQINSTALLDIR}\bin\*.dll"
+"C:\Users\Administrator\Desktop\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\启动 Internet Explorer 浏览器.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\*\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\*\*\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\*\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\*.lnk"
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\*.lnk"
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\*.lnk"
+"C:\ProgramData\Microsoft\Windows\Start Menu\*\*\*.lnk"
+"C:\ProgramData\Microsoft\Windows\Start Menu\*\*.lnk"
+"C:\ProgramData\Microsoft\Windows\Start Menu\*.lnk"
+"C:\Users\Administrator\Favorites\*.lnk"
+"C:\Users\Administrator\Desktop\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\*\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\*\*\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\*\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\*.url"
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\*.url"
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\*.url"
+"C:\ProgramData\Microsoft\Windows\Start Menu\*\*\*.url"
+"C:\ProgramData\Microsoft\Windows\Start Menu\*\*.url"
+"C:\ProgramData\Microsoft\Windows\Start Menu\*.url"
+"C:\Users\Administrator\Favorites\*.url"
+"C:\Users\Administrator\Favorites\*.url"
+"C:\Users\Administrator\Desktop\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\*\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\*\*\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\*\*.url"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\*.url"
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\*.url"
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\*.url"
+"C:\ProgramData\Microsoft\Windows\Start Menu\*\*\*.url"
+"C:\ProgramData\Microsoft\Windows\Start Menu\*\*.url"
+"C:\ProgramData\Microsoft\Windows\Start Menu\*.url"
+"C:\Users\Administrator\Favorites\*.lnk"
+"C:\Users\Administrator\Desktop\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\*\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\*\*.lnk"
+"C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\*\*\*.lnk"
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\*.lnk"
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\*.lnk"
+"C:\ProgramData\Microsoft\Windows\Start Menu\*\*\*.lnk"
+"C:\ProgramData\Microsoft\Windows\Start Menu\*\*.lnk"
+"C:\ProgramData\Microsoft\Windows\Start Menu\*.lnk"
+"C:\Windows\system32\drivers\etc\hosts.*..*.L...\device\harddisk*\dr*..*.^.."
+"C:\Windows\system32\drivers\etc"
+"C:\Windows\system32\GroupPolicy"
+"*..*.$.."
+"*..*.H.."
+"*.&MODIFY_ACCOUNT_INFO.N.."
+"*.,MODIFY_RPC_DNSResolver.|.."
+"%Program File%\Tencent\QQBrowser\QQBrowser.exe"
+"*..SFC_API.<.."
+"a:\autorun.inf"
+"b:\autorun.inf"
+"c:\autorun.inf"
+"d:\autorun.inf"
+"e:\autorun.inf"
+"f:\autorun.inf"
+"g:\autorun.inf"
+"h:\autorun.inf"
+"i:\autorun.inf"
+"j:\autorun.inf"
+"k:\autorun.inf"
+"l:\autorun.inf"
+"m:\autorun.inf"
+"n:\autorun.inf"
+"o:\autorun.inf"
+"p:\autorun.inf"
+"q:\autorun.inf"
+"r:\autorun.inf"
+"s:\autorun.inf"
+"t:\autorun.inf"
+"u:\autorun.inf"
+"v:\autorun.inf"
+"w:\autorun.inf"
+"x:\autorun.inf"
+"y:\autorun.inf"
+"z:\autorun.inf"
+"C:\Program Files\Baidu*\BaiduSd*\*\BaiduSdTray*.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\BaiduSd.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\BaiduSd1.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\BaiduSdSvc*.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\BaiduSdRepair*.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\BaiduSdUpdate.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\hipsengine\BaiduHips*.exe"
+"C:\Program Files\Baidu*\BaiduAn*\*\BaiduAnTray*.exe"
+"C:\Program Files\Baidu*\BaiduAn*\*\BaiduAn.exe"
+"C:\Program Files\Baidu*\BaiduAn*\*\BaiduAn1.exe"
+"C:\Program Files\Baidu*\BaiduAn*\*\BaiduAnSvc*.exe"
+"C:\Program Files\Baidu*\BaiduAn*\*\BaiduAnRepair*.exe"
+"C:\Program Files\Baidu*\BaiduAn*\*\BaiduAnUpdate.exe"
+"C:\Program Files\Baidu*\BaiduAn*\*\hipsengine\BaiduHips*.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\BaiduSdUProxy*.exe"
+"{Temp}\*\hipsengine\drivers\*\bd000*.sys"
+"{Temp}\*\hipsengine\drivers\bd000*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\hipsengine\drivers\*\bd000*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\hipsengine\drivers\bd000*.sys"
+"C:\Windows\SysWOW64\drivers\bd000*.sys"
+"C:\Windows\system32\drivers\bd000*.sys"
+"C:\Users\Administrator\AppData\Roaming\Baidu\BaiduRJDownloader\*\drivers\bd000*.sys"
+"{Temp}\*\hipsengine\drivers\*\BDMWrench*.sys"
+"{Temp}\*\hipsengine\drivers\BDMWrench*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\hipsengine\drivers\*\BDMWrench*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\hipsengine\drivers\BDMWrench*.sys"
+"C:\Users\Administrator\AppData\Roaming\Baidu\BaiduRJDownloader\*\drivers\BDMWrench*.sys"
+"{Temp}\*\hipsengine\drivers\*\BDArKit*.sys"
+"{Temp}\*\hipsengine\drivers\BDArKit*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\hipsengine\drivers\*\BDArKit*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\hipsengine\drivers\BDArKit*.sys"
+"C:\Users\Administrator\AppData\Roaming\Baidu\BaiduRJDownloader\*\drivers\BDArKit*.sys"
+"{Temp}\*\hipsengine\drivers\*\BDMNetMon*.sys"
+"{Temp}\*\hipsengine\drivers\BDMNetMon*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\hipsengine\drivers\*\BDMNetMon*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\hipsengine\drivers\BDMNetMon*.sys"
+"C:\Users\Administrator\AppData\Roaming\Baidu\BaiduRJDownloader\*\drivers\BDMNetMon*.sys"
+"{Temp}\*\hipsengine\drivers\*\Bdfiledefend*.sys"
+"{Temp}\*\hipsengine\drivers\Bdfiledefend*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\hipsengine\drivers\*\Bdfiledefend*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\hipsengine\drivers\Bdfiledefend*.sys"
+"C:\Users\Administrator\AppData\Roaming\Baidu\BaiduRJDownloader\*\drivers\Bdfiledefend*.sys"
+"C:\Windows\SysWOW64\drivers\BDMWrench*.sys"
+"C:\Windows\system32\drivers\BDMWrench*.sys"
+"C:\Windows\SysWOW64\drivers\BDArKit*.sys"
+"C:\Windows\system32\drivers\BDArKit*.sys"
+"C:\Windows\SysWOW64\drivers\BDMNetMon*.sys"
+"C:\Windows\system32\drivers\BDMNetMon*.sys"
+"C:\Windows\SysWOW64\drivers\Bdfiledefend*.sys"
+"C:\Windows\system32\drivers\Bdfiledefend*.sys"
+"C:\Program Files\Baidu*\BaiduAn*\*\hipsengine\drivers\*\bd000*.sys"
+"C:\Program Files\Baidu*\BaiduAn*\*\hipsengine\drivers\bd000*.sys"
+"C:\Program Files\Baidu*\BaiduAn*\*\hipsengine\drivers\*\BDMWrench*.sys"
+"C:\Program Files\Baidu*\BaiduAn*\*\hipsengine\drivers\BDMWrench*.sys"
+"C:\Program Files\Baidu*\BaiduAn*\*\hipsengine\drivers\*\BDArKit*.sys"
+"C:\Program Files\Baidu*\BaiduAn*\*\hipsengine\drivers\BDArKit*.sys"
+"C:\Program Files\Baidu*\BaiduAn*\*\hipsengine\drivers\*\BDMNetMon*.sys"
+"C:\Program Files\Baidu*\BaiduAn*\*\hipsengine\drivers\BDMNetMon*.sys"
+"C:\Program Files\Baidu*\BaiduAn*\*\hipsengine\drivers\*\Bdfiledefend*.sys"
+"C:\Program Files\Baidu*\BaiduAn*\*\hipsengine\drivers\Bdfiledefend*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\BaiduSdTray*.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\BaiduSd.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\BaiduSd1.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\BaiduSdSvc*.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\BaiduSdRepair*.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\BaiduSdUpdate.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\hipsengine\BaiduHips*.exe"
+"C:\Program Files\Baidu*\BaiduAn*\*\*\BaiduAnTray*.exe"
+"C:\Program Files\Baidu*\BaiduAn*\*\*\BaiduAn.exe"
+"C:\Program Files\Baidu*\BaiduAn*\*\*\BaiduAn1.exe"
+"C:\Program Files\Baidu*\BaiduAn*\*\*\BaiduAnSvc*.exe"
+"C:\Program Files\Baidu*\BaiduAn*\*\*\BaiduAnRepair*.exe"
+"C:\Program Files\Baidu*\BaiduAn*\*\*\BaiduAnUpdate.exe"
+"C:\Program Files\Baidu*\BaiduAn*\*\*\hipsengine\BaiduHips*.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\BaiduSdUProxy*.exe"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\hipsengine\drivers\*\bd000*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\hipsengine\drivers\bd000*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\hipsengine\drivers\*\BDMWrench*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\hipsengine\drivers\BDMWrench*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\hipsengine\drivers\*\BDArKit*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\hipsengine\drivers\BDArKit*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\hipsengine\drivers\*\BDMNetMon*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\hipsengine\drivers\BDMNetMon*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\hipsengine\drivers\*\Bdfiledefend*.sys"
+"C:\Program Files\Baidu*\BaiduSd*\*\*\hipsengine\drivers\Bdfiledefend*.sys"
+"C:\Program Files\Baidu*\BaiduSd"
+"C:\Program Files\Baidu*\BaiduAn"
+"C:\Program Files\Baidu*\BaiduSd*\BaiduSd"
+"C:\Program Files\Common Files\Baidu\BaiduHips"
+"C:\Program Files\Common Files\Baidu\BaiduProtect"
+"C:\Windows\system32\Appraiser.dll"
+"C:\Windows\WinSxS\*\appraiser.dll"
+"C:\Windows\WinSxS\Temp\InFlight\*\*appraiser.dll"
+"C:\Windows\SoftwareDistribution\Download\*\*\appraiser.dll"
+"C:\Windows\SoftwareDistribution\Download\*\*\*\appraiser.dll"
+"C:\Program Files\360\360Win10Uper\Utils\Drvtip\appraiserxp.dll"
+"A3专用..CREATE.4.."
+"A3专用..EXCUTE.4.."
+"A3专用..DELETE.4.."
+"A3专用..RENAME...."
+"C:\Program Files\Tencent\QQPCMgr\11.1.16892.209\*"
+"C:\Program Files\Tencent\QQPCMgr\11.1.16892.209\*\*"
+"C:\Program Files\Tencent\QQPCMgr\11.1.16892.209\*\*\*"
+"C:\Program Files\Tencent\QQPCMgr\11.1.16892.209\*\*\*\*"
+"C:\Program Files\Tencent\QQPCMgr\11.1.16892.209\*\*\*\*\*"
+"C:\Program Files\Tencent\QQPCMgr\11.1.16892.209\*\*\*\*\*\*"
+"C:\Program Files\Tencent\QQPCMgr\11.1.16892.209"
+"C:\ProgramData\TENCENT\TSVULFW\*"
+"C:\ProgramData\TENCENT\TSVULFW"
+"C:\ProgramData\TENCENT\TSVulFw_Cache\*"
+"C:\ProgramData\TENCENT\QQPCMGR\SBcfg.dat"
+"C:\ProgramData\TENCENT\QQPCMGR\QMConfig.dat"
+"C:\ProgramData\TENCENT\QQPCMGR\TAVWFSDB\*"
+"C:\ProgramData\TENCENT\QQPCMGR\MalwareLogo\*"
+"C:\ProgramData\TENCENT\QQPCMGR\virusclean.db"
+"C:\ProgramData\TENCENT\QQPCMGR\TrustArea.db"
+"C:\ProgramData\TENCENT\QQPCMGR\QMConfig.hiv"
+"C:\ProgramData\TENCENT\QQPCMGR\Quarantine\QMQuarantine.exe"
+"C:\ProgramData\TENCENT\QQPCMGR\Quarantine\sqlite.dll"
+"C:\ProgramData\TENCENT\QQPCMGR\Quarantine\QMCommon.dll"
+"C:\ProgramData\TENCENT\QQPCMGR\LibBackup\*"
+"C:\Users\Administrator\AppData\Roaming\TENCENT\QQPCMGR\StartupDelayList.xml"
+"C:\Windows\system32\drivers\txarp.sys"
+"C:\Windows\system32\drivers\txarp6.sys"
+"C:\Windows\system32\drivers\TSDefenseBt.sys"
+"C:\Windows\system32\drivers\TsFltMgr.sys"
+"C:\Windows\system32\tssk.sys"
+"C:\Windows\system32\drivers\TFsFlt.sys"
+"C:\Windows\system32\drivers\TFsFltX64.sys"
+"C:\ProgramData\TENCENT\QQPCMgr\AdBlock\*"
+"C:\ProgramData\TENCENT\QQPCMgr\AdBlock"
+"C:\ProgramData\TENCENT\QQPCMGR\Quarantine"
+"C:\ProgramData\TENCENT\QQPCMGR\TAVWFSDB"
+"C:\ProgramData\TENCENT\QQPCMGR\UserPolicy.db"
+"C:\ProgramData\TENCENT\QQPCMGR\qmaplocal\*"
+"C:\ProgramData\TENCENT\QQPCMGR\qmaplocal"
+"C:\ProgramData\TENCENT\QQPCMGR\qmvext.db"
+"C:\Program Files\Tencent\QQPCMgr\11.1.16892.209\QQPCRtp.exe..*..."
+"C:\Program Files\Tencent\QQPCMgr\11.1.16892.209\*..*."."
+"*"
+"*"
+"*..*.$."
+"*..*.N."
+"C:\Windows\explorer.exe"
+"C:\Windows\system32\csrss.exe"
+"C:\Windows\system32\services.ex"
+"C:\Windows\system32\smss.exe"
+"C:\Windows\system32\winlogon.ex"
+"C:\Windows\system32\svchost.exe"
+"C:\Windows\system32\lsass.exe"
+"C:\Windows\system32\taskmgr.exe"
+"C:\Windows\system32\lsm.exe"
+"*"
+"*..*.$."
+"*.."
+"*.&SELF_PROTECT_OBJECT.H.."
+"*.&LOAD_AND_CALL_IMAGE.J.."
+"*.(OPEN_PHYSICAL_MEMORY.H.."
+"*.&WRITE_KERNEL_MEMORY.<.."
+"*..SYMBOLIC_LINK.>.."
+"*..WIN_EVENT_HOOK.B.."
+"*. SET_WINDOWS_HOOK.$.."
+"*..*.$.."
+"*..*.$.."
+"*..*.$.."
+"*..*.$.."
+"*..*.@.."
+"*..GET_WINDOW_TEXT.@.."
+"*..SET_WINDOW_TEXT.b.."
+"*.@CREATE_TX_SSO_SHARE_INFO_SECTION.^.."
+"*.<OPEN_TX_SSO_SHARE_INFO_SECTION.$.."
+"*..*.$.."
+"*..*.$.."
+"*..*.h.."
+"WINLOGON_SHUTDOWN.&WINLOGON_FIRST_TIME.j.."
+"WINLOGON_SHUTDOWN.(WINLOGON_SECOND_TIME.@.."
+"*..CAMERA_PROCTECT.,.."
+"*..RTP_D.F.."
+"*.$WriteProtectMemory.J.."
+"*.(NtUnmapViewOfSection.L.."
+"*.*RTP_CONDITION_COMPETE.l.."
+"*.JCSRSS_SET_PROCESS_SHUTDOWN_PARAMETERS.F.."
+"*.$ATTACK_BY_ZERO_DAY.h.."
+"WINDOWS_SHUTDOWN.(USER32_EXITWINDOWSE"
+
+规则判断：
+	组类型=1 结构
+ruleid=1400,mid=0,subid=15872,0,c:\program files\tencent\qqpcmgr\11.1.16892.209\qqpcrtp.exe,*
+ruleid=1500,mid=0,subid=15872,0,c:\program files\tencent\qqpcmgr\11.1.16892.209\*,*
+ruleid=2001,mid=0,subid=8192,0,*,null
+ruleid=2801,mid=0,subid=16384,0,*,null
+ruleid=2802,mid=0,subid=0,0,*,*
+ruleid=11800,mid=0,subid=131072,0,*,*
+ruleid=11900,mid=0,subid=65536,0,c:\windows\explorer.exe,null
+ruleid=11901,mid=0,subid=65536,0,c:\windows\system32\csrss.exe,null
+ruleid=11902,mid=0,subid=65536,0,c:\windows\system32\services.exe,null
+ruleid=11903,mid=0,subid=65536,0,c:\windows\system32\smss.exe,null
+ruleid=11904,mid=0,subid=65536,0,c:\windows\system32\winlogon.exe,null
+ruleid=11905,mid=0,subid=65536,0,c:\windows\system32\svchost.exe,null
+ruleid=11906,mid=0,subid=65536,0,c:\windows\system32\lsass.exe,null
+ruleid=11907,mid=0,subid=65536,0,c:\windows\system32\taskmgr.exe,null
+ruleid=11908,mid=0,subid=65536,0,c:\windows\system32\lsm.exe,null
+ruleid=11999,mid=0,subid=65536,0,*,null
+ruleid=13006,mid=0,subid=4194304,0,*,*
+ruleid=13007,mid=0,subid=8388608,0,*,*   
+
+	组类型=2
+ruleid=2002,mid=1,subid=35684367,0,c:\windows\system32\drivers\etc\hosts,null
+ruleid=2901,mid=1,subid=35684367,0,c:\windows\tasks\*.job,null
+ruleid=2902,mid=1,subid=35684367,0,c:\windows\system32\tasks\*,null
+ruleid=3001,mid=1,subid=35684367,0,c:\documents and settings\*\「开始」菜单\*,null
+ruleid=3002,mid=1,subid=35684367,0,c:\documents and settings\*\start menu\*,null
+ruleid=3003,mid=1,subid=35684367,0,c:\users\*\appdata\roaming\microsoft\windows\start menu\*,null
+ruleid=3004,mid=1,subid=35684367,0,%programdata%\microsoft\windows\start menu\*,null
+ruleid=3005,mid=1,subid=35684367,0,c:\documents and settings\*\「开始」菜单\程序\启动\*,null
+ruleid=3006,mid=1,subid=35684367,0,c:\documents and settings\*\start menu\programs\startup\*,null
+ruleid=3007,mid=1,subid=35684367,0,c:\users\*\appdata\roaming\microsoft\windows\start menu\programs\startup\*,null
+ruleid=3008,mid=1,subid=35684367,0,%programdata%\microsoft\windows\start menu\programs\startup\*,null
+ruleid=12030,mid=1,subid=35684367,0,c:\program files\winrar\rarext.dll,null
+ruleid=12031,mid=1,subid=35684367,0,c:\windows\system32\macromed\flash\*.ocx,null
+ruleid=12032,mid=1,subid=35684367,0,c:\windows\syswow64\macromed\flash\*.ocx,null
+ruleid=12200,mid=1,subid=35684367,0,c:\windows\system32\grouppolicy\user\scripts\logon\*,null
+ruleid=12201,mid=1,subid=35684367,0,c:\windows\system32\grouppolicy\user\scripts\logoff\*,null
+ruleid=12202,mid=1,subid=35684367,0,c:\windows\system32\grouppolicy\machine\scripts\startup\*,null
+ruleid=12203,mid=1,subid=35684367,0,c:\windows\system32\grouppolicy\machine\scripts\shutdown\*,null
+ruleid=12204,mid=1,subid=35684367,0,c:\boot.ini,null
+ruleid=12205,mid=1,subid=35684367,0,c:\ntdetect.com,null
+ruleid=12206,mid=1,subid=35684367,0,c:\ntldr,null
+ruleid=12207,mid=1,subid=35684367,0,c:\ntbootdd.sys,null
+ruleid=12208,mid=1,subid=35684367,0,c:\pagefile.sys,null
+ruleid=12209,mid=1,subid=35684367,0,c:\hiberfil.sys,null
+ruleid=12210,mid=1,subid=35684367,0,c:\bootmgr,null
+ruleid=12211,mid=1,subid=35684367,0,c:\program files\outlook express\*.dll,null
+ruleid=12212,mid=1,subid=35684367,0,c:\program files\outlook express\*.exe,null
+ruleid=12213,mid=1,subid=35684367,0,c:\program files (x86)\windows nt\*\*.dll,null
+ruleid=12214,mid=1,subid=35684367,0,c:\program files (x86)\windows nt\*\*.exe,null
+ruleid=12215,mid=1,subid=35684367,0,c:\program files (x86)\windows nt\*.dll,null
+ruleid=12216,mid=1,subid=35684367,0,c:\program files (x86)\windows nt\*.exe,null
+ruleid=12217,mid=1,subid=35684367,0,c:\program files\windows nt\*\*.exe,null
+ruleid=12218,mid=1,subid=35684367,0,c:\program files\windows nt\*\*.dll,null
+ruleid=12219,mid=1,subid=35684367,0,c:\program files\windows nt\*.dll,null
+ruleid=12220,mid=1,subid=35684367,0,c:\program files\windows nt\*.exe,null
+ruleid=12221,mid=1,subid=35684367,0,c:\program files (x86)\internet explorer\*.dll,null
+ruleid=12222,mid=1,subid=35684367,0,c:\program files\internet explorer\*.dll,null
+ruleid=12223,mid=1,subid=35684367,0,c:\windows\system32\wbem\*.dll,null
+ruleid=12224,mid=1,subid=35684367,0,c:\windows\system32\wbem\*.exe,null
+ruleid=12225,mid=1,subid=35684367,0,c:\windows\system32\wbem\*.sys,null
+ruleid=12226,mid=1,subid=35684367,0,c:\windows\system32\dllcache\*.dll,null
+ruleid=12227,mid=1,subid=35684367,0,c:\windows\system32\dllcache\*.exe,null
+ruleid=12228,mid=1,subid=35684367,0,c:\windows\system32\dllcache\*.sys,null
+ruleid=12229,mid=1,subid=35684367,0,c:\windows\system32\drivers\*.sys,null
+ruleid=12230,mid=1,subid=35684367,0,c:\windows\system32\*.exe,null
+ruleid=12231,mid=1,subid=35684367,0,c:\windows\system32\*.dll,null
+ruleid=12232,mid=1,subid=35684367,0,c:\windows\system32\*.sys,null
+ruleid=12233,mid=1,subid=35684367,0,c:\windows\fonts\*.exe,null
+ruleid=12234,mid=1,subid=35684367,0,c:\windows\fonts\*.dll,null
+ruleid=12235,mid=1,subid=35684367,0,c:\windows\fonts\*.sys,null
+ruleid=12236,mid=1,subid=35684367,0,c:\windows\system\*.exe,null
+ruleid=12237,mid=1,subid=35684367,0,c:\windows\system\*.sys,null
+ruleid=12238,mid=1,subid=35684367,0,c:\windows\system\*.dll,null
+ruleid=12239,mid=1,subid=35684367,0,c:\windows\*.mui,null
+ruleid=12240,mid=1,subid=35684367,0,c:\windows\*.fon,null
+ruleid=12241,mid=1,subid=35684367,0,c:\windows\*.dic,null
+ruleid=12242,mid=1,subid=35684367,0,c:\windows\*.grm,null
+ruleid=12243,mid=1,subid=35684367,0,c:\windows\*.olb,null
+ruleid=12244,mid=1,subid=35684367,0,c:\windows\*.drv,null
+ruleid=12245,mid=1,subid=35684367,0,c:\windows\*.tsk,null
+ruleid=12246,mid=1,subid=35684367,0,c:\windows\*.cpl,null
+ruleid=12247,mid=1,subid=35684367,0,c:\windows\*.scr,null
+ruleid=12248,mid=1,subid=35684367,0,c:\windows\*.ime,null
+ruleid=12249,mid=1,subid=35684367,0,c:\windows\*.com,null
+ruleid=12250,mid=1,subid=35684367,0,c:\windows\*.tsp,null
+ruleid=12251,mid=1,subid=35684367,0,c:\windows\*.mod,null
+ruleid=12252,mid=1,subid=35684367,0,c:\windows\*.nls,null
+ruleid=12253,mid=1,subid=35684367,0,c:\windows\*.msc,null
+ruleid=12254,mid=1,subid=35684367,0,c:\windows\*.exe,null
+ruleid=12255,mid=1,subid=35684367,0,c:\windows\*.sys,null
+ruleid=12256,mid=1,subid=35684367,0,c:\windows\*.dll,null
+ruleid=12257,mid=1,subid=35684367,0,c:\windows\*.ocx,null
+ruleid=12258,mid=1,subid=35684367,0,c:\windows\winsxs\*.dll,null
+ruleid=12259,mid=1,subid=35684367,0,c:\windows\winsxs\*\*.dll,null
+ruleid=12300,mid=1,subid=35684367,0,{qqinstalldir}\bin\msimg32.dll,null
+ruleid=12301,mid=1,subid=35684367,0,{qqinstalldir}\bin\comres.dll,null
+ruleid=12302,mid=1,subid=35684367,0,{qqinstalldir}\bin\usp10.dll,null
+ruleid=12303,mid=1,subid=35684367,0,{qqinstalldir}\bin\lpk.dll,null
+ruleid=12304,mid=1,subid=35684367,0,{qqinstalldir}\bin\svulstrong.dat,null
+ruleid=12305,mid=1,subid=35684367,0,{qqinstalldir}\bin\asapi.dll,null
+ruleid=12306,mid=1,subid=35684367,0,{qqinstalldir}\bin\common.dll,null
+ruleid=12307,mid=1,subid=35684367,0,{qqinstalldir}\bin\xgraphic32.dll,null
+ruleid=12308,mid=1,subid=35684367,0,{qqinstalldir}\bin\im.dll,null
+ruleid=12309,mid=1,subid=35684367,0,{qqinstalldir}\bin\*.exe,null
+ruleid=12310,mid=1,subid=35684367,0,{qqinstalldir}\bin\*.dll,null
+ruleid=12400,mid=1,subid=35684367,0,c:\documents and settings\administrator\桌面\*.lnk,null
+ruleid=18700,mid=1,subid=35684367,0,c:\documents and settings\administrator\application data\microsoft\internet explorer\quick launch\启动 internet explorer 浏览器.lnk,null
+ruleid=12401,mid=1,subid=35684367,0,c:\documents and settings\administrator\application data\microsoft\internet explorer\quick launch\user pinned\*\*.lnk,null
+ruleid=12402,mid=1,subid=35684367,0,c:\documents and settings\administrator\application data\microsoft\internet explorer\quick launch\user pinned\*.lnk,null
+ruleid=12403,mid=1,subid=35684367,0,c:\documents and settings\administrator\application data\microsoft\internet explorer\quick launch\*.lnk,null
+ruleid=12404,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\程序\*.lnk,null
+ruleid=12405,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\程序\启动\*.lnk,null
+ruleid=12406,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\*\*\*.lnk,null
+ruleid=12407,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\*\*.lnk,null
+ruleid=12408,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\*.lnk,null
+ruleid=12409,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\程序\*.lnk,null
+ruleid=12410,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\程序\启动\*.lnk,null
+ruleid=12411,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\*\*\*.lnk,null
+ruleid=12412,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\*\*.lnk,null
+ruleid=12413,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\*.lnk,null
+ruleid=12414,mid=1,subid=35684367,0,c:\documents and settings\administrator\favorites\*.lnk,null
+ruleid=12450,mid=1,subid=35684367,0,c:\documents and settings\administrator\桌面\*.url,null
+ruleid=12451,mid=1,subid=35684367,0,c:\documents and settings\administrator\application data\microsoft\internet explorer\quick launch\user pinned\*\*.url,null
+ruleid=12452,mid=1,subid=35684367,0,c:\documents and settings\administrator\application data\microsoft\internet explorer\quick launch\user pinned\*.url,null
+ruleid=12453,mid=1,subid=35684367,0,c:\documents and settings\administrator\application data\microsoft\internet explorer\quick launch\*.url,null
+ruleid=12454,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\程序\*.url,null
+ruleid=12455,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\程序\启动\*.url,null
+ruleid=12456,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\*\*\*.url,null
+ruleid=12457,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\*\*.url,null
+ruleid=12458,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\*.url,null
+ruleid=12459,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\程序\*.url,null
+ruleid=12460,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\程序\启动\*.url,null
+ruleid=12461,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\*\*\*.url,null
+ruleid=12462,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\*\*.url,null
+ruleid=12463,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\*.url,null
+ruleid=12464,mid=1,subid=35684367,0,c:\documents and settings\administrator\favorites\*.url,null
+ruleid=12500,mid=1,subid=35684367,0,c:\documents and settings\administrator\favorites\*.url,null
+ruleid=12501,mid=1,subid=35684367,0,c:\documents and settings\administrator\桌面\*.url,null
+ruleid=12502,mid=1,subid=35684367,0,c:\documents and settings\administrator\application data\microsoft\internet explorer\quick launch\user pinned\*\*.url,null
+ruleid=12503,mid=1,subid=35684367,0,c:\documents and settings\administrator\application data\microsoft\internet explorer\quick launch\user pinned\*.url,null
+ruleid=12504,mid=1,subid=35684367,0,c:\documents and settings\administrator\application data\microsoft\internet explorer\quick launch\*.url,null
+ruleid=12505,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\程序\*.url,null
+ruleid=12506,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\程序\启动\*.url,null
+ruleid=12507,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\*\*\*.url,null
+ruleid=12508,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\*\*.url,null
+ruleid=12509,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\*.url,null
+ruleid=12510,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\程序\*.url,null
+ruleid=12511,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\程序\启动\*.url,null
+ruleid=12512,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\*\*\*.url,null
+ruleid=12513,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\*\*.url,null
+ruleid=12514,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\*.url,null
+ruleid=12600,mid=1,subid=35684367,0,c:\documents and settings\administrator\favorites\*.lnk,null
+ruleid=12601,mid=1,subid=35684367,0,c:\documents and settings\administrator\桌面\*.lnk,null
+ruleid=12602,mid=1,subid=35684367,0,c:\documents and settings\administrator\application data\microsoft\internet explorer\quick launch\user pinned\*\*.lnk,null
+ruleid=12603,mid=1,subid=35684367,0,c:\documents and settings\administrator\application data\microsoft\internet explorer\quick launch\user pinned\*.lnk,null
+ruleid=12604,mid=1,subid=35684367,0,c:\documents and settings\administrator\application data\microsoft\internet explorer\quick launch\*.lnk,null
+ruleid=12605,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\程序\*.lnk,null
+ruleid=12606,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\程序\启动\*.lnk,null
+ruleid=12607,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\*.lnk,null
+ruleid=12608,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\*\*.lnk,null
+ruleid=12609,mid=1,subid=35684367,0,c:\documents and settings\administrator\「开始」菜单\*\*\*.lnk,null
+ruleid=12610,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\程序\*.lnk,null
+ruleid=12611,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\程序\启动\*.lnk,null
+ruleid=12612,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\*\*\*.lnk,null
+ruleid=12613,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\*\*.lnk,null
+ruleid=12614,mid=1,subid=35684367,0,c:\documents and settings\all users\「开始」菜单\*.lnk,null
+ruleid=12700,mid=1,subid=35684367,0,c:\windows\system32\drivers\etc\hosts,null
+ruleid=13800,mid=1,subid=2097152,0,*,*
+ruleid=13900,mid=1,subid=35684367,0,\device\harddisk*\dr*,*
+ruleid=18100,mid=1,subid=35684367,0,c:\windows\system32\drivers\etc,null
+ruleid=18101,mid=1,subid=35684367,0,c:\windows\system32\grouppolicy,null
+ruleid=18600,mid=1,subid=33554432,0,*,*
+ruleid=19000,mid=1,subid=0,0,*,*
+ruleid=19030,mid=1,subid=35684367,0,*,modify_account_info
+ruleid=19100,mid=1,subid=35684367,0,*,modify_rpc_dnsresolver
+ruleid=20200,mid=1,subid=35684367,0,%program file%\tencent\qqbrowser\qqbrowser.exe,null
+ruleid=20300,mid=1,subid=35684367,0,*,sfc_api
+ruleid=20350,mid=1,subid=35684367,0,a:\autorun.inf,null
+ruleid=20351,mid=1,subid=35684367,0,b:\autorun.inf,null
+ruleid=20352,mid=1,subid=35684367,0,c:\autorun.inf,null
+ruleid=20353,mid=1,subid=35684367,0,d:\autorun.inf,null
+ruleid=20354,mid=1,subid=35684367,0,e:\autorun.inf,null
+ruleid=20355,mid=1,subid=35684367,0,f:\autorun.inf,null
+ruleid=20356,mid=1,subid=35684367,0,g:\autorun.inf,null
+ruleid=20357,mid=1,subid=35684367,0,h:\autorun.inf,null
+ruleid=20358,mid=1,subid=35684367,0,i:\autorun.inf,null
+ruleid=20359,mid=1,subid=35684367,0,j:\autorun.inf,null
+ruleid=20360,mid=1,subid=35684367,0,k:\autorun.inf,null
+ruleid=20361,mid=1,subid=35684367,0,l:\autorun.inf,null
+ruleid=20362,mid=1,subid=35684367,0,m:\autorun.inf,null
+ruleid=20363,mid=1,subid=35684367,0,n:\autorun.inf,null
+ruleid=20364,mid=1,subid=35684367,0,o:\autorun.inf,null
+ruleid=20365,mid=1,subid=35684367,0,p:\autorun.inf,null
+ruleid=20366,mid=1,subid=35684367,0,q:\autorun.inf,null
+ruleid=20367,mid=1,subid=35684367,0,r:\autorun.inf,null
+ruleid=20368,mid=1,subid=35684367,0,s:\autorun.inf,null
+ruleid=20369,mid=1,subid=35684367,0,t:\autorun.inf,null
+ruleid=20370,mid=1,subid=35684367,0,u:\autorun.inf,null
+ruleid=20371,mid=1,subid=35684367,0,v:\autorun.inf,null
+ruleid=20372,mid=1,subid=35684367,0,w:\autorun.inf,null
+ruleid=20373,mid=1,subid=35684367,0,x:\autorun.inf,null
+ruleid=20374,mid=1,subid=35684367,0,y:\autorun.inf,null
+ruleid=20375,mid=1,subid=35684367,0,z:\autorun.inf,null
+ruleid=20400,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\baidusdtray*.exe,null
+ruleid=20401,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\baidusd.exe,null
+ruleid=20402,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\baidusd1.exe,null
+ruleid=20403,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\baidusdsvc*.exe,null
+ruleid=20404,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\baidusdrepair*.exe,null
+ruleid=20405,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\baidusdupdate.exe,null
+ruleid=20406,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\hipsengine\baiduhips*.exe,null
+ruleid=20407,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\baiduantray*.exe,null
+ruleid=20408,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\baiduan.exe,null
+ruleid=20409,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\baiduan1.exe,null
+ruleid=20410,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\baiduansvc*.exe,null
+ruleid=20411,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\baiduanrepair*.exe,null
+ruleid=20412,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\baiduanupdate.exe,null
+ruleid=20413,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\hipsengine\baiduhips*.exe,null
+ruleid=20414,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\baidusduproxy*.exe,null
+ruleid=20415,mid=1,subid=35684367,0,c:\documents and settings\administrator\local settings\temp\*\hipsengine\drivers\*\bd000*.sys,null
+ruleid=20416,mid=1,subid=35684367,0,c:\documents and settings\administrator\local settings\temp\*\hipsengine\drivers\bd000*.sys,null
+ruleid=20417,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\hipsengine\drivers\*\bd000*.sys,null
+ruleid=20418,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\hipsengine\drivers\bd000*.sys,null
+ruleid=20419,mid=1,subid=35684367,0,c:\windows\syswow64\drivers\bd000*.sys,null
+ruleid=20420,mid=1,subid=35684367,0,c:\windows\system32\drivers\bd000*.sys,null
+ruleid=20421,mid=1,subid=35684367,0,c:\documents and settings\administrator\appdata\roaming\baidu\baidurjdownloader\*\drivers\bd000*.sys,null
+ruleid=20422,mid=1,subid=35684367,0,c:\documents and settings\administrator\local settings\temp\*\hipsengine\drivers\*\bdmwrench*.sys,null
+ruleid=20423,mid=1,subid=35684367,0,c:\documents and settings\administrator\local settings\temp\*\hipsengine\drivers\bdmwrench*.sys,null
+ruleid=20424,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\hipsengine\drivers\*\bdmwrench*.sys,null
+ruleid=20425,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\hipsengine\drivers\bdmwrench*.sys,null
+ruleid=20426,mid=1,subid=35684367,0,c:\documents and settings\administrator\appdata\roaming\baidu\baidurjdownloader\*\drivers\bdmwrench*.sys,null
+ruleid=20427,mid=1,subid=35684367,0,c:\documents and settings\administrator\local settings\temp\*\hipsengine\drivers\*\bdarkit*.sys,null
+ruleid=20428,mid=1,subid=35684367,0,c:\documents and settings\administrator\local settings\temp\*\hipsengine\drivers\bdarkit*.sys,null
+ruleid=20429,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\hipsengine\drivers\*\bdarkit*.sys,null
+ruleid=20430,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\hipsengine\drivers\bdarkit*.sys,null
+ruleid=20431,mid=1,subid=35684367,0,c:\documents and settings\administrator\appdata\roaming\baidu\baidurjdownloader\*\drivers\bdarkit*.sys,null
+ruleid=20432,mid=1,subid=35684367,0,c:\documents and settings\administrator\local settings\temp\*\hipsengine\drivers\*\bdmnetmon*.sys,null
+ruleid=20433,mid=1,subid=35684367,0,c:\documents and settings\administrator\local settings\temp\*\hipsengine\drivers\bdmnetmon*.sys,null
+ruleid=20434,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\hipsengine\drivers\*\bdmnetmon*.sys,null
+ruleid=20435,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\hipsengine\drivers\bdmnetmon*.sys,null
+ruleid=20436,mid=1,subid=35684367,0,c:\documents and settings\administrator\appdata\roaming\baidu\baidurjdownloader\*\drivers\bdmnetmon*.sys,null
+ruleid=20437,mid=1,subid=35684367,0,c:\documents and settings\administrator\local settings\temp\*\hipsengine\drivers\*\bdfiledefend*.sys,null
+ruleid=20438,mid=1,subid=35684367,0,c:\documents and settings\administrator\local settings\temp\*\hipsengine\drivers\bdfiledefend*.sys,null
+ruleid=20439,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\hipsengine\drivers\*\bdfiledefend*.sys,null
+ruleid=20440,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\hipsengine\drivers\bdfiledefend*.sys,null
+ruleid=20441,mid=1,subid=35684367,0,c:\documents and settings\administrator\appdata\roaming\baidu\baidurjdownloader\*\drivers\bdfiledefend*.sys,null
+ruleid=20442,mid=1,subid=35684367,0,c:\windows\syswow64\drivers\bdmwrench*.sys,null
+ruleid=20443,mid=1,subid=35684367,0,c:\windows\system32\drivers\bdmwrench*.sys,null
+ruleid=20444,mid=1,subid=35684367,0,c:\windows\syswow64\drivers\bdarkit*.sys,null
+ruleid=20445,mid=1,subid=35684367,0,c:\windows\system32\drivers\bdarkit*.sys,null
+ruleid=20446,mid=1,subid=35684367,0,c:\windows\syswow64\drivers\bdmnetmon*.sys,null
+ruleid=20447,mid=1,subid=35684367,0,c:\windows\system32\drivers\bdmnetmon*.sys,null
+ruleid=20448,mid=1,subid=35684367,0,c:\windows\syswow64\drivers\bdfiledefend*.sys,null
+ruleid=20449,mid=1,subid=35684367,0,c:\windows\system32\drivers\bdfiledefend*.sys,null
+ruleid=20450,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\hipsengine\drivers\*\bd000*.sys,null
+ruleid=20451,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\hipsengine\drivers\bd000*.sys,null
+ruleid=20452,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\hipsengine\drivers\*\bdmwrench*.sys,null
+ruleid=20453,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\hipsengine\drivers\bdmwrench*.sys,null
+ruleid=20454,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\hipsengine\drivers\*\bdarkit*.sys,null
+ruleid=20455,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\hipsengine\drivers\bdarkit*.sys,null
+ruleid=20456,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\hipsengine\drivers\*\bdmnetmon*.sys,null
+ruleid=20457,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\hipsengine\drivers\bdmnetmon*.sys,null
+ruleid=20458,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\hipsengine\drivers\*\bdfiledefend*.sys,null
+ruleid=20459,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\hipsengine\drivers\bdfiledefend*.sys,null
+ruleid=20460,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\baidusdtray*.exe,null
+ruleid=20461,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\baidusd.exe,null
+ruleid=20462,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\baidusd1.exe,null
+ruleid=20463,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\baidusdsvc*.exe,null
+ruleid=20464,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\baidusdrepair*.exe,null
+ruleid=20465,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\baidusdupdate.exe,null
+ruleid=20466,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\hipsengine\baiduhips*.exe,null
+ruleid=20467,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\*\baiduantray*.exe,null
+ruleid=20468,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\*\baiduan.exe,null
+ruleid=20469,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\*\baiduan1.exe,null
+ruleid=20470,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\*\baiduansvc*.exe,null
+ruleid=20471,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\*\baiduanrepair*.exe,null
+ruleid=20472,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\*\baiduanupdate.exe,null
+ruleid=20473,mid=1,subid=35684367,0,c:\program files\baidu*\baiduan*\*\*\hipsengine\baiduhips*.exe,null
+ruleid=20474,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\baidusduproxy*.exe,null
+ruleid=20475,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\hipsengine\drivers\*\bd000*.sys,null
+ruleid=20476,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\hipsengine\drivers\bd000*.sys,null
+ruleid=20477,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\hipsengine\drivers\*\bdmwrench*.sys,null
+ruleid=20478,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\hipsengine\drivers\bdmwrench*.sys,null
+ruleid=20479,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\hipsengine\drivers\*\bdarkit*.sys,null
+ruleid=20480,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\hipsengine\drivers\bdarkit*.sys,null
+ruleid=20481,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\hipsengine\drivers\*\bdmnetmon*.sys,null
+ruleid=20482,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\hipsengine\drivers\bdmnetmon*.sys,null
+ruleid=20483,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\hipsengine\drivers\*\bdfiledefend*.sys,null
+ruleid=20484,mid=1,subid=35684367,0,c:\program files\baidu*\baidusd*\*\*\hipsengine\drivers\bdfiledefend*.sys,null
+ruleid=20700,mid=1,subid=1,0,c:\program files\baidu*\baidusd,null
+ruleid=20701,mid=1,subid=1,0,c:\program files\baidu*\baiduan,null
+ruleid=20702,mid=1,subid=1,0,c:\program files\baidu*\baidusd*\baidusd,null
+ruleid=20703,mid=1,subid=1,0,c:\program files\common files\baidu\baiduhips,null
+ruleid=20704,mid=1,subid=1,0,c:\program files\common files\baidu\baiduprotect,null
+ruleid=20800,mid=1,subid=35684367,0,c:\windows\system32\appraiser.dll,null
+ruleid=20801,mid=1,subid=35684367,0,c:\windows\winsxs\*\appraiser.dll,null
+ruleid=20802,mid=1,subid=35684367,0,c:\windows\winsxs\temp\inflight\*\*appraiser.dll,null
+ruleid=20803,mid=1,subid=35684367,0,c:\windows\softwaredistribution\download\*\*\appraiser.dll,null
+ruleid=20804,mid=1,subid=35684367,0,c:\windows\softwaredistribution\download\*\*\*\appraiser.dll,null
+ruleid=20805,mid=1,subid=35684367,0,c:\program files\360\360win10uper\utils\drvtip\appraiserxp.dll,null
+ruleid=50002,mid=1,subid=35684367,0,a3专用,create
+ruleid=50003,mid=1,subid=35684367,0,a3专用,excute
+ruleid=50004,mid=1,subid=35684367,0,a3专用,delete
+ruleid=50005,mid=1,subid=35684367,0,a3专用,rename
+ruleid=1001,mid=1,subid=35684367,0,c:\program files\tencent\qqpcmgr\11.1.16892.209\*,null
+ruleid=1002,mid=1,subid=35684367,0,c:\program files\tencent\qqpcmgr\11.1.16892.209\*\*,null
+ruleid=1003,mid=1,subid=35684367,0,c:\program files\tencent\qqpcmgr\11.1.16892.209\*\*\*,null
+ruleid=1004,mid=1,subid=35684367,0,c:\program files\tencent\qqpcmgr\11.1.16892.209\*\*\*\*,null
+ruleid=1005,mid=1,subid=35684367,0,c:\program files\tencent\qqpcmgr\11.1.16892.209\*\*\*\*\*,null
+ruleid=1006,mid=1,subid=35684367,0,c:\program files\tencent\qqpcmgr\11.1.16892.209\*\*\*\*\*\*,null
+ruleid=1007,mid=1,subid=35684367,0,c:\program files\tencent\qqpcmgr\11.1.16892.209,null
+ruleid=1008,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\tsvulfw\*,null
+ruleid=1009,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\tsvulfw,null
+ruleid=1010,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\tsvulfw_cache\*,null
+ruleid=1011,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\sbcfg.dat,null
+ruleid=1012,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\qmconfig.dat,null
+ruleid=1013,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\tavwfsdb\*,null
+ruleid=1014,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\malwarelogo\*,null
+ruleid=1015,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\virusclean.db,null
+ruleid=1016,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\trustarea.db,null
+ruleid=1017,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\qmconfig.hiv,null
+ruleid=1018,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\quarantine\qmquarantine.exe,null
+ruleid=1019,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\quarantine\sqlite.dll,null
+ruleid=1020,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\quarantine\qmcommon.dll,null
+ruleid=1021,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\libbackup\*,null
+ruleid=1022,mid=1,subid=35684367,0,c:\documents and settings\administrator\application data\tencent\qqpcmgr\startupdelaylist.xml,null
+ruleid=1023,mid=1,subid=35684367,0,c:\windows\system32\drivers\txarp.sys,null
+ruleid=1024,mid=1,subid=35684367,0,c:\windows\system32\drivers\txarp6.sys,null
+ruleid=1025,mid=1,subid=35684367,0,c:\windows\system32\drivers\tsdefensebt.sys,null
+ruleid=1026,mid=1,subid=35684367,0,c:\windows\system32\drivers\tsfltmgr.sys,null
+ruleid=1027,mid=1,subid=35684367,0,c:\windows\system32\tssk.sys,null
+ruleid=1028,mid=1,subid=35684367,0,c:\windows\system32\drivers\tfsflt.sys,null
+ruleid=1029,mid=1,subid=35684367,0,c:\windows\system32\drivers\tfsfltx64.sys,null
+ruleid=1030,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\adblock\*,null
+ruleid=1031,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\adblock,null
+ruleid=1032,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\quarantine,null
+ruleid=1033,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\tavwfsdb,null
+ruleid=1034,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\userpolicy.db,null
+ruleid=1035,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\qmaplocal\*,null
+ruleid=1036,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\qmaplocal,null
+ruleid=1100,mid=1,subid=35684367,0,c:\documents and settings\all users\application data\tencent\qqpcmgr\qmvext.db,null
+
+	组类型=3	
+ruleid=1600,mid=3,subid=262144,0,*,self_protect_object
+ruleid=13000,mid=3,subid=262144,0,*,load_and_call_image
+ruleid=13001,mid=3,subid=262144,0,*,open_physical_memory
+ruleid=13002,mid=3,subid=262144,0,*,write_kernel_memory
+ruleid=13003,mid=3,subid=262144,0,*,symbolic_link
+ruleid=13004,mid=3,subid=262144,0,*,win_event_hook
+ruleid=13005,mid=3,subid=262144,0,*,set_windows_hook
+ruleid=13008,mid=3,subid=2,0,*,*
+ruleid=13009,mid=3,subid=4,0,*,*
+ruleid=13010,mid=3,subid=32,0,*,*
+ruleid=13011,mid=3,subid=8,0,*,*
+ruleid=13012,mid=3,subid=16,0,*,*
+ruleid=13014,mid=3,subid=262144,0,*,get_window_text
+ruleid=13015,mid=3,subid=262144,0,*,set_window_text
+ruleid=13016,mid=3,subid=262144,0,*,create_tx_sso_share_info_section
+ruleid=13017,mid=3,subid=262144,0,*,open_tx_sso_share_info_section
+ruleid=13020,mid=3,subid=64,0,*,*
+ruleid=13021,mid=3,subid=512,0,*,*
+ruleid=13088,mid=3,subid=256,0,*,*
+ruleid=13090,mid=3,subid=262144,0,winlogon_shutdown,winlogon_first_time
+ruleid=13091,mid=3,subid=262144,0,winlogon_shutdown,winlogon_second_time
+ruleid=14001,mid=3,subid=262144,0,*,camera_proctect
+ruleid=18200,mid=3,subid=262144,0,*,rtp_d
+ruleid=18300,mid=3,subid=262144,0,*,writeprotectmemory
+ruleid=18301,mid=3,subid=262144,0,*,ntunmapviewofsection
+ruleid=19010,mid=3,subid=262144,0,*,rtp_condition_compete
+ruleid=19020,mid=3,subid=262144,0,*,csrss_set_process_shutdown_parameters
+ruleid=19040,mid=3,subid=262144,0,*,attack_by_zero_day
+ruleid=13092,mid=3,subid=262144,0,windows_shutdown,user32_exitwindowsex

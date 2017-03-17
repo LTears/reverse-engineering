@@ -1,0 +1,3 @@
+set solib-search-path E:/DexDump/app/src/main/obj/local/x86
+source E:/Android/ndk/android-ndk-r12b/prebuilt/common/gdb/common.setup
+directory E:/Android/ndk/android-ndk-r12b/platforms/android-9/arch-x86/usr/include E:/Android/ndk/android-ndk-r12b/sources/cxx-stl/gnu-libstdc++ E:/DexDump/app/src/main/jni E:/Android/ndk/android-ndk-r12b/sources/cxx-stl/gnu-libstdc++/4.8/include E:/Android/ndk/android-ndk-r12b/sources/cxx-stl/gnu-libstdc++/4.8/libs/x86/include E:/Android/ndk/android-ndk-r12b/sources/cxx-stl/gnu-libstdc++/4.8/include/backward
